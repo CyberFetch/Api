@@ -1,0 +1,1240 @@
+var trr = [
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-T460 Core i5 RAM 8GB 500 HDD-6ème Génération-Remis a Neuf",
+        "price": "1,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/423765/1.jpg?5020"
+    },
+    {
+        "title": "Hp EliteBook 840 G3 Core i5-16Go DDR4 -512Go SSD-15.6″ Full HD+Sacoch -Remis à Neuf - QWERTY",
+        "price": "2,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/476846/1.jpg?8623"
+    },
+    {
+        "title": "Hp PC PORTABLE ELITEBOOK 840 G5 8ÉME GÉN-CORE I5-8Go-256 Go SSD-Remis à neuf",
+        "price": "2,949.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/147926/1.jpg?0843"
+    },
+    {
+        "title": "Hp PC GAMER i5 6éme Gén - 16GB RAM - 256GB SSD / 500GB HDD - NVIDIA GT 730 2GB - remis à neuf",
+        "price": "1,980.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/562756/1.jpg?5965"
+    },
+    {
+        "title": "Hp PC GAMER i5 4éme Gén - 16GB RAM - 500GB HDD - NVIDIA GT 710 2GB - Windows 10 - remis à neuf",
+        "price": "1,790.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/631726/1.jpg?0543"
+    },
+    {
+        "title": "Hp PC GAMER i5 6éme Gén - 16GB RAM - 256GB SSD / 500GB HDD - NVIDIA NVS 510 2GB - Razer Deathadder Chroma - remis à neuf",
+        "price": "1,960.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/904656/1.jpg?4590"
+    },
+    {
+        "title": "Hp PRODESK 600 G1 Tour  i5 - 4590 3.30Ghz - 8Go - 500Go -WIN 10Pro Remis A Neuf",
+        "price": "950.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/539693/1.jpg?2200"
+    },
+    {
+        "title": "DELL Optiplex 3020 MT Intel® Core™ i5- 4th Gen - RAM 8Go , HDD  500Go (Remis à Neuf)",
+        "price": "849.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/13/289974/1.jpg?2170"
+    },
+    {
+        "title": "Hp PC GAMER i5 4éme Gén - 16GB RAM - 256GB SSD/500GB HDD - NVIDIA GT 730 2GB - Windows 10 - remis à neuf",
+        "price": "1,780.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/519446/1.jpg?0964"
+    },
+    {
+        "title": "Hp EliteBook 840 14Pouce G3 Core i5 6eme Grd 8Go DDR4-256 M.2 SSD Remis a Neuf",
+        "price": "2,699.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/389944/1.jpg?6729"
+    },
+    {
+        "title": "Hp PC PORTABLE HP ELITEBOOK 840 G5 8ÉME GÉN-CORE I5-8Go-256 Go SSD-Remise à neuf",
+        "price": "2,959.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/424165/1.jpg?6248"
+    },
+    {
+        "title": "Hp PC Portable HP Probook 640 G1 Core i3 4eme 320Gb 4GB RAM 14\" remis a neuf",
+        "price": "1,679.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/48/849823/1.jpg?7776"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-L430 Core i5-5éme Génération-RAM-8GB-500 HDD-AZERTY-Remis a Neuf",
+        "price": "1,699.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/361256/1.jpg?5851"
+    },
+    {
+        "title": "Hp Pack ProDesk Pentium G3420 - 8Go, 500Go Ecran HP 20'' ( Remis à Neuf )",
+        "price": "1,349.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/478184/1.jpg?7145"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-T460 Core i5 RAM 16GB 512 SSD-6ème Génération-Remis a Neuf",
+        "price": "2,369.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/759795/1.jpg?1450"
+    },
+    {
+        "title": "Hp PC PORTABLE HP ELITEBOOK 840 G2 5ÉME GÉNÉRATION CORE I5-5300U  - Remise à neuf",
+        "price": "2,299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/952324/1.jpg?9630"
+    },
+    {
+        "title": "Hp PC BUREAU ProDesk 600-i5  8Go 256ssd souris+clavier GRATUIT-REMIS A NEUF",
+        "price": "1,049.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/374846/1.jpg?7705"
+    },
+    {
+        "title": "Hp PC PORTABLE  ELITEBOOK 840 G5 8ÉME GÉN-CORE I5-8Go-256 Go SSD-Remis à neuf",
+        "price": "2,975.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/116936/1.jpg?9146"
+    },
+    {
+        "title": "Hp EliteBook 840 G3 i5-6200U, 8Go DDR4, 256Go SSD,14\"  Remis a Neuf",
+        "price": "2,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/365724/1.jpg?8750"
+    },
+    {
+        "title": "DELL PC PORTABLE Latitude 5420-11ème Génération-INTEL i5- RAM 16Go - SSD 256Go-AYERTY-REMIS A NEUF/",
+        "price": "4,099.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/285456/1.jpg?2405"
+    },
+    {
+        "title": "Hp Prodesk 280 G1 MT Intel Core i5-4590s I 8Gb Ram I 500Gb HDD I Remis à Neuf",
+        "price": "850.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/717636/1.jpg?0854"
+    },
+    {
+        "title": "Hp Elitebook 840 G3 CORE i5 6300u -RAM 16 Go DDR4 - 256GoSSD -Remis a neuf",
+        "price": "2,699.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/351325/1.jpg?5803"
+    },
+    {
+        "title": "Hp EliteDesk 800 G3 SFF i5-6500 3.20GHz - 8Go DDR4- HDD 500Go- Remis a neuf",
+        "price": "1,329.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/491416/1.jpg?9906"
+    },
+    {
+        "title": "Hp ULTRAPORTABLE HP  ELITEBOOK 840 G3 6ÉME GÉNÉRATION  CORE I5 - Remise à neuf",
+        "price": "2,274.05 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/075124/1.jpg?8107"
+    },
+    {
+        "title": "DELL Optiplex 3020 MT Intel Pentium - 8Go , 500Go (Remis à Neuf) + Pack 10 pièces gratuit",
+        "price": "999.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/300256/1.jpg?6369"
+    },
+    {
+        "title": "Hp EliteBook 840 G5 Core i5-8éme I 16Go Qwerty I 512 Go SSD gratuit cartable+cle usb 16 go + souris sans fil -Remis a Neuf",
+        "price": "3,550.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/41/125356/1.jpg?4304"
+    },
+    {
+        "title": "DELL Optiplex 3020 MT intel G1820 - RAM 4Go - HDD 500Go avec Ecran Dell 22\" - Remis à Neuf",
+        "price": "1,650.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/03/427505/1.jpg?9640"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-L460 Core i5 RAM 16GB 512 SSD-6ème Génération-Remis a Neuf",
+        "price": "2,399.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/332656/1.jpg?1969"
+    },
+    {
+        "title": "Hp ELITEBOOK 840 G5 8ÉME GÉN-CORE I5-8Go-256 Go SSD + SOURIS ET CARTABLE GRATUIT -Remise à neuf/",
+        "price": "3,034.05 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/775926/1.jpg?7265"
+    },
+    {
+        "title": "Hp PC Portable ELITEBOOK X360 G3 I5-8éme -8GB- 512GB SSD - TACTILE - REMIS À NEUF",
+        "price": "5,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/824916/1.jpg?4684"
+    },
+    {
+        "title": "Gigabyte PC GAMER EVGA I7-4790K / 16GB DDR4 / 240GB SSD + 1To HDD / GeForce 770 4GB (Remis à Neuf )",
+        "price": "4,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/599185/1.jpg?8462"
+    },
+    {
+        "title": "Hp PC Complet Prodesk 600 G3 MT. Processeur : intel Core i7-6700  ECRAN Z24 NF FREMLESS",
+        "price": "3,299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/321656/1.jpg?2845"
+    },
+    {
+        "title": "DELL PC Portable Latitude E6520-i5- RAM 4G-250Go HDD-SOURIS  ET CARTABLE-GRATUIT-AZERTY-REMIS A NEUF",
+        "price": "1,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/539556/1.jpg?1664"
+    },
+    {
+        "title": "Lenovo ThinkPad X220, Intel Core i5 - RAM 8Go-HDD 320Go + CARTABLE - REMIS A NEUF/",
+        "price": "1,689.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/35/937126/1.jpg?5210"
+    },
+    {
+        "title": "Hp unité centrale 8200 Pro -i5 3.10 GHz-8Go-250Go- Graveur DVD - Remis à neuf",
+        "price": "854.05 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/788983/1.jpg?3334"
+    },
+    {
+        "title": "Apple MacBook AIR 13 2015- Core I5- RAM 4Go- DISK DUR 128GO SSD – REMIS A NEUF/",
+        "price": "2,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/320446/1.jpg?9982"
+    },
+    {
+        "title": "Hp PC BUREAU ProDesk 400-i5-16Go 256Go SSD souris+ clavier GRATUIT-REMIS A NEUF",
+        "price": "1,249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/582646/1.jpg?2984"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-T470 Core i5 RAM 8GB 500 HDD-6ème Génération-Remis a Neuf",
+        "price": "3,995.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/496926/1.jpg?0145"
+    },
+    {
+        "title": "Apple MacBook AIR 13 2017-APPLE- Core I5- RAM 8Go- DISK DUR 128GO SSD – REMIS A NEUF/",
+        "price": "2,849.05 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/030416/1.jpg?7605"
+    },
+    {
+        "title": "Lenovo PC PORTABLE LENOVO Thinkpad-T440 Core i5 RAM 8GB 500 HDD -Remis a Neuf",
+        "price": "1,799.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/614416/1.jpg?2023"
+    }
+]
+
+
+// chaussures
+
+
+
+[
+    {
+        "title": "Adidas Chaussure Cloudfoam Comfy -Bleu",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/769756/1.jpg?6073"
+    },
+    {
+        "title": "Nike Downshifter 11 Gs - Noir",
+        "price": "384.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/693656/1.jpg?6411"
+    },
+    {
+        "title": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Hommes -Gris",
+        "price": "450.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/527656/1.jpg?8839"
+    },
+    {
+        "title": "Under Armour Chaussures De Course Ua Surge 3 Pour Hommes -Noir",
+        "price": "0.00 Dhs - 450.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/527656/1.jpg?3599"
+    },
+    {
+        "title": "Under Armour Chaussures De Course Ua Hovr™ Turbulence 2 -Noir",
+        "price": "570.00 Dhs - 799.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/527656/1.jpg?2778"
+    },
+    {
+        "title": "Puma Chaussure Rs-Metric Trail -Multicouleur",
+        "price": "520.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/627656/1.jpg?1634"
+    },
+    {
+        "title": "Under Armour Chaussures De Running Ua W Surge -Gris",
+        "price": "427.00 Dhs - 430.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/527656/1.jpg?5803"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Noir Reebok Court Advance - Noir",
+        "price": "612.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/41/050756/1.jpg?8826"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Bleu Reebok Court Retro - Bleu",
+        "price": "532.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/050756/1.jpg?8825"
+    },
+    {
+        "title": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Hommes -Noir",
+        "price": "450.00 Dhs - 995.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/527656/1.jpg?4763"
+    },
+    {
+        "title": "Under Armour Chaussures De Course Pour Hommes Under Armour Ua Speed ​​Swift -Blanc",
+        "price": "570.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/527656/1.jpg?3161"
+    },
+    {
+        "title": "Reebok ENERGYLUX 3 CHAUSSURES HOMMES",
+        "price": "426.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/444056/1.jpg?0433"
+    },
+    {
+        "title": "Under Armour Chaussures De Running Ua Charged Pursuit 3 Tech -Gris",
+        "price": "450.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/527656/1.jpg?3862"
+    },
+    {
+        "title": "Reebok Baskets Gris Pour Homme Reebok Royal Bb4500 Hi2 - Gris",
+        "price": "615.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/442756/1.jpg?9604"
+    },
+    {
+        "title": "Reebok ENERGYLUX 3 CHAUSSURES HOMMES",
+        "price": "425.00 Dhs - 426.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/444056/1.jpg?7271"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Blanc Reebok Court Retro - Blanc",
+        "price": "479.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/050756/1.jpg?8825"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Blanc Reebok Court Advance - Blanc",
+        "price": "765.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/050756/1.jpg?8825"
+    },
+    {
+        "title": "Under Armour Chaussures De Running Ua Surge 3 -Gris",
+        "price": "430.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/527656/1.jpg?5602"
+    },
+    {
+        "title": "Reebok WALKAWHILE CHAUSSURES UNISEX",
+        "price": "362.00 Dhs - 390.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/444056/1.jpg?2716"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Blanc Reebok Court Retro - Blanc",
+        "price": "665.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/050756/1.jpg?8825"
+    },
+    {
+        "title": "Reebok REAGO ESSENTIAL 2.0 CHAUSSURES HOMMES",
+        "price": "439.00 Dhs - 440.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/344056/1.jpg?6225"
+    },
+    {
+        "title": "Reebok Baskets Pour Homme Energen Lite Full Black  - Noir",
+        "price": "665.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/940756/1.jpg?8832"
+    },
+    {
+        "title": "Under Armour Chaussures De Running Ua W Charged Pursuit 3 Tech -Multicouleur",
+        "price": "430.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/527656/1.jpg?5526"
+    },
+    {
+        "title": "Reebok Baskets Noir Pour Homme Baskets Noir Pour Homme Baskets Noir Pour Homme Flexagon Energy Tr 4 - Noir",
+        "price": "719.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/050756/1.jpg?8830"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Blanc Reebok Court Clean - Blanc",
+        "price": "799.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/050756/1.jpg?8826"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Blanc Reebok Court Clean - Blanc",
+        "price": "679.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/050756/1.jpg?8825"
+    },
+    {
+        "title": "chaussure de sport confortable unisexe",
+        "price": "215.00 Dhs - 225.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/949025/1.jpg?7232"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Noir Reebok Court Advance - Noir",
+        "price": "765.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/050756/1.jpg?8826"
+    },
+    {
+        "title": "Reebok Baskets Noir Unisex  Atr Chill - Noir",
+        "price": "959.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/940756/1.jpg?8835"
+    },
+    {
+        "title": "Reebok Chaussures Bleu Unisex Energen Tech - Bleu",
+        "price": "719.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/050756/1.jpg?8831"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Noir Reebok Court Clean - Noir",
+        "price": "799.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/42/050756/1.jpg?8826"
+    },
+    {
+        "title": "Reebok Baskets Blanc Pour Homme Reebok Lite 4 - Blanc",
+        "price": "692.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/442756/1.jpg?0786"
+    },
+    {
+        "title": "Reebok Baskets Pour Unisex Blanc Reebok Court Advance Clip - Blanc",
+        "price": "879.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/050756/1.jpg?8825"
+    },
+    {
+        "title": "Reebok Baskets Noir Pour Homme Energen Lite Semelles Blanches Logo Blanc - Noir",
+        "price": "565.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/940756/1.jpg?8833"
+    },
+    {
+        "title": "Reebok Chaussures Gris  Pour Homme Energen Lux - Gris",
+        "price": "692.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/940756/1.jpg?8831"
+    },
+    {
+        "title": "Reebok Baskets Bleu Pour Homme Reebok Royal Bb4500 Hi2 - Bleu",
+        "price": "906.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/750756/1.jpg?0206"
+    },
+    {
+        "title": "Reebok Chaussures Unisex Noir Energen Tech - Noir",
+        "price": "799.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/940756/1.jpg?8831"
+    },
+    {
+        "title": "Reebok Baskets Noir Pour Homme Fluxlite - Noir",
+        "price": "665.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/050756/1.jpg?8829"
+    },
+    {
+        "title": "Defacto Chaussures de sport décontractées pour homme - Gris",
+        "price": "599.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/889746/1.jpg?9449"
+    },
+    {
+        "title": "Adidas Chaussures de sport Homme NITE JOGGER FV1323",
+        "price": "1,336.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/764895/1.jpg?4449"
+    }
+]
+
+
+//pc
+
+
+[
+    {
+        "title": "Hp PC PORTABLE ELITEBOOK 840 G5 8ÉME GÉN-CORE I5-8Go-256 Go SSD-Remis à neuf",
+        "price": "2,949.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/147926/1.jpg?0843"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-T460 Core i5 RAM 8GB 500 HDD-6ème Génération-Remis a Neuf",
+        "price": "1,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/423765/1.jpg?5020"
+    },
+    {
+        "title": "DELL Optiplex 3020 MT Intel® Core™ i5- 4th Gen - RAM 8Go , HDD  500Go (Remis à Neuf)",
+        "price": "849.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/13/289974/1.jpg?2170"
+    },
+    {
+        "title": "Hp PC GAMER i5 6éme Gén - 16GB RAM - 256GB SSD / 500GB HDD - NVIDIA GT 730 2GB - remis à neuf",
+        "price": "1,980.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/562756/1.jpg?5965"
+    },
+    {
+        "title": "Hp EliteBook 840 G3 Core i5-16Go DDR4 -512Go SSD-15.6″ Full HD+Sacoch -Remis à Neuf - QWERTY",
+        "price": "2,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/476846/1.jpg?8623"
+    },
+    {
+        "title": "Hp PC GAMER i5 6éme Gén - 16GB RAM - 256GB SSD / 500GB HDD - NVIDIA NVS 510 2GB - Razer Deathadder Chroma - remis à neuf",
+        "price": "1,960.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/904656/1.jpg?4590"
+    },
+    {
+        "title": "Hp PC GAMER i5 4éme Gén - 16GB RAM - 500GB HDD - NVIDIA GT 710 2GB - Windows 10 - remis à neuf",
+        "price": "1,790.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/631726/1.jpg?0543"
+    },
+    {
+        "title": "Hp PRODESK 600 G1 Tour  i5 - 4590 3.30Ghz - 8Go - 500Go -WIN 10Pro Remis A Neuf",
+        "price": "950.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/539693/1.jpg?2200"
+    },
+    {
+        "title": "Apple Macbook Pro Retina 13,3\" -2015 -INTEL CORE i5-RAM 8Go-SSD 128Go - Remis a neuf",
+        "price": "2,999.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/604626/1.jpg?6805"
+    },
+    {
+        "title": "Hp PC GAMER i5 4éme Gén - 16GB RAM - 256GB SSD/500GB HDD - NVIDIA GT 730 2GB - Windows 10 - remis à neuf",
+        "price": "1,780.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/519446/1.jpg?0964"
+    },
+    {
+        "title": "Hp EliteBook 840 14Pouce G3 Core i5 6eme Grd 8Go DDR4-256 M.2 SSD Remis a Neuf",
+        "price": "2,699.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/389944/1.jpg?6729"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-L430 Core i5-5éme Génération-RAM-8GB-500 HDD-AZERTY-Remis a Neuf",
+        "price": "1,699.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/361256/1.jpg?5851"
+    },
+    {
+        "title": "Hp PC PORTABLE HP ELITEBOOK 840 G5 8ÉME GÉN-CORE I5-8Go-256 Go SSD-Remise à neuf",
+        "price": "2,959.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/424165/1.jpg?6248"
+    },
+    {
+        "title": "Hp PC Portable HP Probook 640 G1 Core i3 4eme 320Gb 4GB RAM 14\" remis a neuf",
+        "price": "1,679.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/48/849823/1.jpg?7776"
+    },
+    {
+        "title": "Hp EliteBook 840 G3 i5-6200U, 8Go DDR4, 256Go SSD,14\"  Remis a Neuf",
+        "price": "2,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/365724/1.jpg?8750"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-T460 Core i5 RAM 16GB 512 SSD-6ème Génération-Remis a Neuf",
+        "price": "2,369.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/759795/1.jpg?1450"
+    },
+    {
+        "title": "Hp Pack ProDesk Pentium G3420 - 8Go, 500Go Ecran HP 20'' ( Remis à Neuf )",
+        "price": "1,349.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/478184/1.jpg?7145"
+    },
+    {
+        "title": "Hp PC BUREAU ProDesk 600-i5  8Go 256ssd souris+clavier GRATUIT-REMIS A NEUF",
+        "price": "1,049.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/374846/1.jpg?7705"
+    },
+    {
+        "title": "Hp PC PORTABLE HP ELITEBOOK 840 G2 5ÉME GÉNÉRATION CORE I5-5300U  - Remise à neuf",
+        "price": "2,299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/952324/1.jpg?9630"
+    },
+    {
+        "title": "Apple MacBook AIR 13 2015- Core I5- RAM 4Go- DISK DUR 128GO SSD – REMIS A NEUF/",
+        "price": "2,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/320446/1.jpg?9982"
+    },
+    {
+        "title": "Hp PC PORTABLE  ELITEBOOK 840 G5 8ÉME GÉN-CORE I5-8Go-256 Go SSD-Remis à neuf",
+        "price": "2,975.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/116936/1.jpg?9146"
+    },
+    {
+        "title": "Hp Prodesk 280 G1 MT Intel Core i5-4590s I 8Gb Ram I 500Gb HDD I Remis à Neuf",
+        "price": "850.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/717636/1.jpg?9444"
+    },
+    {
+        "title": "DELL PC PORTABLE Latitude 5420-11ème Génération-INTEL i5- RAM 16Go - SSD 256Go-AYERTY-REMIS A NEUF/",
+        "price": "4,099.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/285456/1.jpg?2405"
+    },
+    {
+        "title": "Hp EliteDesk 800 G3 SFF i5-6500 3.20GHz - 8Go DDR4- HDD 500Go- Remis a neuf",
+        "price": "1,329.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/491416/1.jpg?9906"
+    },
+    {
+        "title": "Hp ELITEBOOK 840 G5 8ÉME GÉN-CORE I5-8Go-256 Go SSD + SOURIS ET CARTABLE GRATUIT -Remise à neuf/",
+        "price": "3,034.05 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/775926/1.jpg?7265"
+    },
+    {
+        "title": "Hp Elitebook 840 G3 CORE i5 6300u -RAM 16 Go DDR4 - 256GoSSD -Remis a neuf",
+        "price": "2,699.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/351325/1.jpg?5803"
+    },
+    {
+        "title": "DELL Optiplex 3020 MT Intel Pentium - 8Go , 500Go (Remis à Neuf) + Pack 10 pièces gratuit",
+        "price": "999.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/300256/1.jpg?6369"
+    },
+    {
+        "title": "Hp EliteBook 840 G5 Core i5-8éme I 16Go Qwerty I 512 Go SSD gratuit cartable+cle usb 16 go + souris sans fil -Remis a Neuf",
+        "price": "3,550.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/41/125356/1.jpg?4304"
+    },
+    {
+        "title": "DELL Pc i7 4éme 16 Go RAM- 256Go SSD - OPTIPLEX 9020sff -remis à neuf",
+        "price": "1,790.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/638075/1.jpg?8766"
+    },
+    {
+        "title": "Gigabyte PC GAMER EVGA I7-4790K / 16GB DDR4 / 240GB SSD + 1To HDD / GeForce 770 4GB (Remis à Neuf )",
+        "price": "4,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/599185/1.jpg?8462"
+    },
+    {
+        "title": "Hp ULTRAPORTABLE HP  ELITEBOOK 840 G3 6ÉME GÉNÉRATION  CORE I5 - Remise à neuf",
+        "price": "2,274.05 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/075124/1.jpg?8107"
+    },
+    {
+        "title": "Hp PC Complet Prodesk 600 G3 MT. Processeur : intel Core i7-6700  ECRAN Z24 NF FREMLESS",
+        "price": "3,299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/321656/1.jpg?2845"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-L460 Core i5 RAM 16GB 512 SSD-6ème Génération-Remis a Neuf",
+        "price": "2,399.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/332656/1.jpg?1969"
+    },
+    {
+        "title": "Hp PC BUREAU ProDesk 400-i5 4ème Gén 8Go 500Go souris+clavier GRATUIT-REMIS A NEUF/",
+        "price": "992.75 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/509316/2.jpg?0600"
+    },
+    {
+        "title": "Hp PC Portable ELITEBOOK X360 G3 I5-8éme -8GB- 512GB SSD - TACTILE - REMIS À NEUF",
+        "price": "5,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/824916/1.jpg?4684"
+    },
+    {
+        "title": "DELL PC Portable Latitude E6520-i5- RAM 4G-250Go HDD-SOURIS  ET CARTABLE-GRATUIT-AZERTY-REMIS A NEUF",
+        "price": "1,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/539556/1.jpg?1664"
+    },
+    {
+        "title": "Hp PC BUREAU ProDesk 400-i5-16Go 256Go SSD souris+ clavier GRATUIT-REMIS A NEUF",
+        "price": "1,249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/582646/1.jpg?2984"
+    },
+    {
+        "title": "Lenovo PC PORTABLE  Thinkpad-T470 Core i5 RAM 8GB 500 HDD-6ème Génération-Remis a Neuf",
+        "price": "3,995.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/496926/1.jpg?0145"
+    },
+    {
+        "title": "Hp unité centrale 8200 Pro -i5 3.10 GHz-8Go-250Go- Graveur DVD - Remis à neuf",
+        "price": "854.05 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/788983/1.jpg?3334"
+    },
+    {
+        "title": "Apple MacBook Pro RETINA 13.3 -2015-Core I5- RAM 8Go-DISK DUR 256GO SSD–QUERTY- REMIS A NEUF/",
+        "price": "3,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/431056/1.jpg?4536"
+    }
+]
+
+
+
+
+//électroménager
+
+
+[
+    {
+        "title": "Mellerware Hachoir chopper électrique 360ml - double lames-2ans de garantie",
+        "price": "99.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/343136/1.jpg?9893"
+    },
+    {
+        "title": "Black Diamond Machine à POP CORN \"FOOTBALL POPPER XL\" AVEC BOL XL inclus (Taille: 20X20X29CM)",
+        "price": "118.75 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/892456/1.jpg?8502"
+    },
+    {
+        "title": "Taurus Hachoir électrique Chopper KWIK 600w 4 lames large bol1.8L inox-2ans de garantie",
+        "price": "284.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/429585/1.jpg?5493"
+    },
+    {
+        "title": "Tefal Hachoir 5 sec manuel 500ml, Lames acier inoxydable Cuisine rapide et facile",
+        "price": "119.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/541326/1.jpg?1584"
+    },
+    {
+        "title": "Hachoir electrique cayon Germany style bol en verre-vert-",
+        "price": "99.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/797053/1.jpg?4793"
+    },
+    {
+        "title": "Taurus Appareil à Pop-corn 1100W - Rouge Ferrari  2ans de garantie",
+        "price": "237.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/96/223691/1.jpg?2592"
+    },
+    {
+        "title": "Machine de scellage à vide Emballeur des aliments, Machine d'emballage sous vide",
+        "price": "99.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/470765/1.jpg?6494"
+    },
+    {
+        "title": "Homy Panini Grill Toast 3in1 Puissant Rapide Antiadhésive Grade Alimentaire ni huile ni beurre Top INOX",
+        "price": "142.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/712946/1.jpg?9265"
+    },
+    {
+        "title": "Moulinex Mini Hachoir - DJ520110 4 LAMES - 3en1 - garantie 2 ans",
+        "price": "349.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/28/078416/1.jpg?5892"
+    },
+    {
+        "title": "Taurus Hachoir électrique SMART CHOPPER  500ml  - double lames-2ans de garantie",
+        "price": "189.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/063963/1.jpg?5233"
+    },
+    {
+        "title": "Taurus Hachoir électrique Chopper TopGlass XXL400w 4 lames 1,5Len verre - 2ans de garantie",
+        "price": "332.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/189885/1.jpg?2126"
+    },
+    {
+        "title": "Vacuum Sealer Machine de scellage à chaud sous vide, machine de scellage de sacs en plastique, gadgets d'emballage de cuisine, conservation des aliments ménagers,avec 10 sacs",
+        "price": "78.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/42/012756/1.jpg?3296"
+    },
+    {
+        "title": "Tefal Hachoir Manuel K1320404 900ml",
+        "price": "199.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/312746/1.jpg?1705"
+    },
+    {
+        "title": "Tefal Panini Grill Toast Expert",
+        "price": "849.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/828635/1.jpg?3643"
+    },
+    {
+        "title": "Cooking Electrique Hachoir 2 Bol Inox Et Verre Avec 5 Lames et batteur",
+        "price": "199.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/033846/1.jpg?7232"
+    },
+    {
+        "title": "Cooking Broyeur de viande électrique hachoir professionnel spécialisé pour votre cuisine",
+        "price": "199.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/055836/1.jpg?4627"
+    },
+    {
+        "title": "Clatronic Hachoir Et Broyeur À Glace Clatronic MZ 3579 Blanc",
+        "price": "99.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/023746/1.jpg?0891"
+    },
+    {
+        "title": "Royal Cuiseur d'œufs EB6405 Cuiseurs à vapeur 1 à 7 œufs",
+        "price": "237.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/091656/1.jpg?6134"
+    },
+    {
+        "title": "Vacuum Sealer Machine Sous-Vide électrique + 2PS rouleau Sacs sous vide",
+        "price": "159.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/388256/1.jpg?6027"
+    },
+    {
+        "title": "Vacuum Sealer Machine de sous vide + Rolo de 5 Mètres +10 Sachet sous vide",
+        "price": "123.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/810156/1.jpg?2154"
+    },
+    {
+        "title": "Cooking Hachoir électrique 2 bols Inox et Verre + 5 Lames et batteur et spatule 3L",
+        "price": "199.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/033846/1.jpg?7232"
+    },
+    {
+        "title": "Moulinex Moulinette Powelix Noire 1000w Dpa14825 + \"Bol+couv+couteau\" Gratuits",
+        "price": "599.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/42/544756/1.jpg?1507"
+    },
+    {
+        "title": "Taurus Appareil à Fondue 1000W, Capacité de 2L Température régable, Tous types de fondues, Sans PFOA Classe énergétique A-2ans de garantie",
+        "price": "522.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/038656/1.jpg?0346"
+    },
+    {
+        "title": "Black Diamond Hachoir Deluxe \"Black Diamond\" Inox & Silicone Soft Touch 4 lames - 1L",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/892456/1.jpg?8444"
+    },
+    {
+        "title": "Black & Decker Cuiseur à oeufs 6 œufs + 2 Poêles à œufs (eg200-b5)",
+        "price": "258.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/301356/1.jpg?9463"
+    },
+    {
+        "title": "Cuiseur à œufs électrique  Avec poêle à vapeur en acier inoxydable",
+        "price": "119.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/472065/1.jpg?9028"
+    },
+    {
+        "title": "Tefal Panini Grill Toast Expert 1800w Noir GC1918TR",
+        "price": "849.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/776846/1.jpg?2645"
+    },
+    {
+        "title": "Vacuum Sealer Machine de Scellage sous vide pour aliments ménagers et fruits",
+        "price": "79.70 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/330036/1.jpg?7684"
+    },
+    {
+        "title": "Moulinex Hachoir HV1 ME106832 - 1400W - 3en1",
+        "price": "799.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/532635/1.jpg?8287"
+    },
+    {
+        "title": "LEXICAL Yaourtière 7 pièces bocals en verre , fabricant yaourt 7 tasses",
+        "price": "284.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/648656/1.jpg?1945"
+    },
+    {
+        "title": "schlëizer Hachoir Électrique Professionnel 1400W – Double Bol Inox et Verre, 3 Litres de Capacité",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/439656/1.jpg?8045"
+    },
+    {
+        "title": "General Robot hachoir inox 300w, 2litre 2 vitesses pour aliment, viande noir / black",
+        "price": "151.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/077536/1.jpg?1363"
+    },
+    {
+        "title": "Hachoir electrique bol en verre av 2 lames",
+        "price": "128.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/673443/1.jpg?3929"
+    },
+    {
+        "title": "Soudeuse Thermique 200 mm pour sac plastique",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/592146/1.jpg?1029"
+    },
+    {
+        "title": "Hachoir électrique 2l, 2 vitesses, pour aliments herbe viande et légumes, 300W",
+        "price": "175.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/948734/1.jpg?4145"
+    },
+    {
+        "title": "Vacuum Sealer Machine plastifieuse Sous-Vide électrique pour alimenter + 2Ps rouleau Sacs sous vide",
+        "price": "179.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/388256/1.jpg?6029"
+    },
+    {
+        "title": "Hachoir Robot multifonction manuel",
+        "price": "99.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/821214/1.jpg?1503"
+    },
+    {
+        "title": "Homy Creative Chopper INOX Meilleur Prix Hachoir Electric Lame en SCanon Effet Cyclone",
+        "price": "149.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/249326/1.jpg?5195"
+    },
+    {
+        "title": "Homy Hachoir à Viande puissant avec Fabricant de Saucisses",
+        "price": "379.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/13/944126/1.jpg?5046"
+    },
+    {
+        "title": "Cooking Hachoir électrique multifonctios en 2 Bols Inox et Verre+5 Lames et batteur",
+        "price": "265.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/743175/1.jpg?4677"
+    }
+]
+
+
+
+// réfrigérateur
+
+
+[
+    {
+        "title": "Siera Réfrigérateur avec congélateur en haut 190L - Dp 27 Silver",
+        "price": "2,589.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/470045/1.jpg?4510"
+    },
+    {
+        "title": "Siera Réfrigérateur avec congélateur en haut 190L -Dp 27 Blanc",
+        "price": "2,489.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/05/709935/3.jpg?7192"
+    },
+    {
+        "title": "Daiko Mini Réfrigérateur 50L - Silencieux - 70 W - A+ Économie d'énergie FMD-955K",
+        "price": "1,099.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/158846/1.jpg?9043"
+    },
+    {
+        "title": "Infiniton Réfrigérateur 1 porte 88L - A+ - FG-150X - Silver",
+        "price": "1,949.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/844156/1.jpg?3882"
+    },
+    {
+        "title": "Siera Réfrégirateur avec congélateur en haut DP 40 SILVER GR NV PI",
+        "price": "3,449.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/05/224236/1.jpg?2221"
+    },
+    {
+        "title": "Roch Mini réfrigérateur, Réfrigérateur vitrine 90 L",
+        "price": "1,753.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/835156/1.jpg?9564"
+    },
+    {
+        "title": "Whirlpool Réfrigérateur Statique Combiné 272L Double portes Silver - W5 611E X",
+        "price": "3,999.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/375056/1.jpg?4304"
+    },
+    {
+        "title": "Roch Mini réfrigérateur - Mini Bar - Réfrigérateur vitrine 44L",
+        "price": "995.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/624156/1.jpg?2448"
+    },
+    {
+        "title": "Siera Réfrigérateur DP27 SILVER avec congélateur en haut",
+        "price": "2,939.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/695036/1.jpg?3285"
+    },
+    {
+        "title": "Siera R?fr?girateur avec cong?lateur en haut240L DP 30 SILVER NV PI",
+        "price": "3,099.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/84/224236/1.jpg?2160"
+    },
+    {
+        "title": "Visio Mini Réfrigérateur et Mini Bar avec Verrouillage de sécurité - 47L - Statique - Garantie 1 an",
+        "price": "1,049.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/371746/1.jpg?3511"
+    },
+    {
+        "title": "Mini Réfrigérateur 46 litres Mini Bar Haute Qualité - Mini Bar",
+        "price": "993.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/771246/1.jpg?0243"
+    },
+    {
+        "title": "Whirlpool Réfrigérateur - WNF 711 E X - L'Élégance de l'Inox 295L No Frost - A+",
+        "price": "5,099.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/285156/1.jpg?2304"
+    },
+    {
+        "title": "Siera Réfrigérateur DP 390 No Frost BLACK",
+        "price": "4,699.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/737046/1.jpg?1131"
+    },
+    {
+        "title": "Candy Réfrigérateur Combiné 342L - CCE3T618FS - Gris",
+        "price": "5,041.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/059925/1.jpg?5143"
+    },
+    {
+        "title": "Royal Minibar mini réfrigérateur noir porte vitrée avec petit compartiment congélateur 44L A+",
+        "price": "1,599.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/076746/1.jpg?4349"
+    },
+    {
+        "title": "Daiko Réfrigérateur Statique 189L - A+ - Double portes - Silver",
+        "price": "2,899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/034946/1.jpg?5730"
+    },
+    {
+        "title": "LG Réfrigérateur combiné 341L - A++ - 36dB - No Frost - Compresseur Smart Inverter",
+        "price": "7,262.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/795646/1.jpg?2265"
+    },
+    {
+        "title": "Siera Réfrigérateur Silver DP480 NV",
+        "price": "5,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/221236/1.jpg?1706"
+    },
+    {
+        "title": "Schneider Mini réfrigérateur Minibar très silencieux vitré transparent Noir 35,5L éclairage led",
+        "price": "2,399.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/480156/1.jpg?4710"
+    },
+    {
+        "title": "Infiniton Réfrigérateur 1 Porte Table Top 109L Silver Cl-109l",
+        "price": "2,779.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/844156/1.jpg?3524"
+    },
+    {
+        "title": "Daiko Mini Réfrigérateur 91L - Silencieux - 78 W - A+ Économie d'énergie FMD-1665K",
+        "price": "2,010.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/158846/1.jpg?9043"
+    },
+    {
+        "title": "Mini Bar Réfrigérateur 44 L Qualité Silver avec Verrouillage de sécurité",
+        "price": "1,199.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/031336/1.jpg?4605"
+    },
+    {
+        "title": "Daiko Réfrigérateur Statique 231L - A+ - Double portes - Silver",
+        "price": "3,199.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/034946/1.jpg?5658"
+    },
+    {
+        "title": "Infiniton réfrigérateur Side by Side SBS-668WDIX inox avec Distributeur d'eau de 5,5L",
+        "price": "11,999.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/05/439646/1.jpg?8246"
+    },
+    {
+        "title": "LG Réfrigérateur avec congélateur en haut GR-C502HL 410L",
+        "price": "8,063.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/53/221236/1.jpg?1706"
+    },
+    {
+        "title": "Midea Mini réfrigérateur Minibar Blanc 47L design avec petit compartiment congélateur idéal pour chambre",
+        "price": "1,999.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/686636/1.jpg?2328"
+    },
+    {
+        "title": "Visio Mini Réfrigérateur et Mini Bar avec Verrouillage de sécurité - 47L - Statique",
+        "price": "1,049.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/162456/1.jpg?8586"
+    },
+    {
+        "title": "Whirlpool Réfrigérateur Combiné 320L No Frost, WFNF81EOX - A+ - Garantie 1 An",
+        "price": "6,178.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/059925/1.jpg?1090"
+    },
+    {
+        "title": "Beko Réfrigérateur Frost 195 L: RDSA180K20W - Blanc",
+        "price": "3,999.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/265985/4.jpg?7465"
+    },
+    {
+        "title": "Siera Réfrigérateur avec congélateur en haut DP390 silver",
+        "price": "4,799.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/221236/1.jpg?1706"
+    },
+    {
+        "title": "Bosch Réfrigérateur No Frost 253L - VitaFresh - EcoMode - KDN30N12M8 - Garantie 2 ans",
+        "price": "5,699.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/885256/1.jpg?2766"
+    },
+    {
+        "title": "Daiko Réfrigérateur Statique 231L A+ - Double portes é Silver",
+        "price": "3,244.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/469646/1.jpg?9128"
+    },
+    {
+        "title": "Siera Réfrigérateur DP405 silver",
+        "price": "4,649.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/221236/1.jpg?1705"
+    },
+    {
+        "title": "Midea Mini réfrigérateur Minibar Noir 47L design avec petit compartiment congélateur idéal pour chambre",
+        "price": "1,999.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/686636/1.jpg?2144"
+    },
+    {
+        "title": "Mini réfrigérateur Double Porte Mini Bar 87 litres multi usages",
+        "price": "1,956.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/968746/1.jpg?1482"
+    },
+    {
+        "title": "Samsung Réfrigérateur Twin Cooling - 303L Net - Réfrigérant écologique RT30A3100SA",
+        "price": "5,499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/437756/1.jpg?1265"
+    },
+    {
+        "title": "Mini Réfrigérateur 44 litres  Mini Bar Haute Qualité Silver Avec verouillage",
+        "price": "1,167.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/452056/1.jpg?7824"
+    },
+    {
+        "title": "Mini réfrigérateur, Mini Bar 90 litres multi usages avec mini frigo",
+        "price": "1,959.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/550036/1.jpg?2494"
+    },
+    {
+        "title": "Haier Réfrigérateur combiné 2D 60 Série 3",
+        "price": "7,068.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/42/020256/1.jpg?0601"
+    }
+]
+
+//machine à laver 
+
+
+[
+    {
+        "title": "Mini machine à laver pliable portable,Lave-linge Compact et Pliable",
+        "price": "279.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/887656/1.jpg?6468"
+    },
+    {
+        "title": "Royal RS 40 - Machine à laver - 4Kg Cuve simple",
+        "price": "522.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/148916/1.jpg?5132"
+    },
+    {
+        "title": "Machine à laver portable 2 in 1 lave linge turbo portable usb",
+        "price": "96.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/199156/1.jpg?2728"
+    },
+    {
+        "title": "Ultrasonic turbine washing 1kg",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/48/924585/1.jpg?1627"
+    },
+    {
+        "title": "Mini Machine à Laver Pliable Portable",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/125556/1.jpg?6015"
+    },
+    {
+        "title": "KRÖHLER Machine à laver Single Semi Automatique 7.1 KG - KPB-7.1-SE - Garantie 1 An",
+        "price": "1,036.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/924846/1.jpg?7998"
+    },
+    {
+        "title": "ORVICA Mini Machine à Laver Pliable Stérilisation Portable 3KG-Vert Pr voyage",
+        "price": "788.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/679646/1.jpg?8904"
+    },
+    {
+        "title": "ORVICA Mini machine à laver BLEU pliable portable de haute qualité 3kg , 135W + Panier d'essorage",
+        "price": "739.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/619124/1.jpg?1385"
+    },
+    {
+        "title": "Mini machine à laver Portable usb Lave-linge Turbo alimenté",
+        "price": "79.79 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/199156/1.jpg?2727"
+    },
+    {
+        "title": "Machine à Laver Portable 2 in 1 , Lave-Linge ultrasonique Turbo, Portable",
+        "price": "77.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/702056/1.jpg?3164"
+    },
+    {
+        "title": "Sèche linge extensible 80cm (4m de capacité)",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/989193/1.jpg?6486"
+    },
+    {
+        "title": "Bande lumineuse LED rgb application télécommande 44 touche",
+        "price": "119.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/305656/1.jpg?3946"
+    },
+    {
+        "title": "Mini machine à laver pliable portable de camping,Sous-Vêtements, Voyage",
+        "price": "336.75 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/828256/1.jpg?3591"
+    },
+    {
+        "title": "Laveuse portable standardisée 8l , vêtements d'intérieur, soutien - gorge, rétractable",
+        "price": "480.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/789256/1.jpg?6452"
+    },
+    {
+        "title": "Folding Mini machine à laver pliante portable pour Voyage, Camping Couleur Rose",
+        "price": "549.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/006216/1.jpg?1169"
+    },
+    {
+        "title": "Machine à laver portable pliable avec mini sèche-linge automatique pour sous-vêtements et chaussettes 110V/220V avec centrifugeuse 9 L",
+        "price": "238.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/463956/1.jpg?4594"
+    },
+    {
+        "title": "KRÖHLER Lave Vaisselle digital -12/13 Couverts -- Gris",
+        "price": "3,199.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/998646/1.jpg?7185"
+    },
+    {
+        "title": "Machine à laver portable pliable avec essoreuse automatique vêtements 11L",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/010656/1.jpg?3764"
+    },
+    {
+        "title": "Machine à laver ultrasonique Turbo 2 en 1 lave linge Portable de voyage.",
+        "price": "143.45 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/758256/1.jpg?5364"
+    },
+    {
+        "title": "Machine à laver portable pliable avec mini sèche-linge automatique pour sous-vêtements et chaussettes 110V/220V avec centrifugeuse 9L",
+        "price": "289.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/769756/1.jpg?8745"
+    },
+    {
+        "title": "Machine à Laver Pliable Portable  de grande capacité Avec Panier/ facile à utiliser",
+        "price": "239.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/975656/1.jpg?7631"
+    },
+    {
+        "title": "kglg Machine à Laver 3Kg Semi-Automatique avec essorage",
+        "price": "495.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/948756/1.jpg?3185"
+    },
+    {
+        "title": "Machine à laver portable pliable avec essoreuse automatique vêtements 11L",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/010656/1.jpg?3765"
+    },
+    {
+        "title": "Machine à laver portable pliable avec essoreuse automatique vêtements 11L",
+        "price": "229.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/010656/1.jpg?3764"
+    },
+    {
+        "title": "Royal Machine À Lave Semi Automatique Single Avec Kit D'essorage, 5 Kg",
+        "price": "949.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/910446/1.jpg?5244"
+    },
+    {
+        "title": "General Technomatic machine a laver semi automatique 3.5 kg lavage et essorage(couleur au hazard)",
+        "price": "495.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/629656/1.jpg?4586"
+    },
+    {
+        "title": "Support Jambes Machine à Laver anti vibration / Tapis Tampons Antivibration -4pcs",
+        "price": "29.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/080856/1.jpg?4046"
+    },
+    {
+        "title": "Machine à laver portable pliable avec mini sèche-linge automatique pour sous-vêtements et chaussettes 110V/220V avec centrifugeuse",
+        "price": "236.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/076956/1.jpg?7986"
+    },
+    {
+        "title": "Estrella  Machine à Laver Semi Automatique avec Essorage Ultra Efficace 3.5KG",
+        "price": "599.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/282956/1.jpg?9105"
+    },
+    {
+        "title": "Mini machine à laver, pour les serviettes, les chaussettes, la lingerie, et les vêtements du bébé.",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/237856/1.jpg?0225"
+    },
+    {
+        "title": "Machine à laver portable pliable avec mini sèche-linge automatique pour sous-vêtements et chaussettes 110V/220V avec centrifugeuse 9L",
+        "price": "289.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/101856/1.jpg?7631"
+    },
+    {
+        "title": "Machine à Laver Pliable Portable de grande capacité Avec Panier efficace",
+        "price": "244.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/635656/1.jpg?2926"
+    },
+    {
+        "title": "Lave-linge Compact et Pliable Idéal pour les Petits Espaces, Machine à Laver 9L",
+        "price": "259.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/38/787656/1.jpg?6436"
+    },
+    {
+        "title": "Mini Machine à Laver Pliable Portable de Camping Sous-Vêtements Pour Voyage",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/628656/1.jpg?5892"
+    },
+    {
+        "title": "Royal MACHINE À LAVER SEMI AUTOMATIQUE SANS ESSORAGE LAMARQUE",
+        "price": "899.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/665656/1.jpg?9485"
+    },
+    {
+        "title": "Mini machine à laver, pour les serviettes, les chaussettes, la lingerie, et les vêtements du bébé.",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/05/808856/1.jpg?5727"
+    },
+    {
+        "title": "Mini machine à laver pliable portable,Lave-linge Compact et Pliable",
+        "price": "259.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/787656/1.jpg?6435"
+    },
+    {
+        "title": "General Tecnomatic MACHINE À LAVER SEMI AUTOMATIQUE SANS ESSORAGE",
+        "price": "499.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/898756/1.jpg?4584"
+    },
+    {
+        "title": "Machine à laver portable pliable avec mini sèche-linge automatique pour sous-vêtements et chaussettes 110V/220V avec centrifugeuse 9L",
+        "price": "289.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/769756/1.jpg?8744"
+    },
+    {
+        "title": "Machine à laver portable pliable avec mini sèche-linge automatique pour sous-vêtements et chaussettes 110V/220V avec centrifugeuse 9L",
+        "price": "289.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/769756/1.jpg?8744"
+    }
+]
