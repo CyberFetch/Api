@@ -1,0 +1,981 @@
+//montres
+
+const  trr = {
+
+[
+    {
+        "title": "Benyar Montre Bracelet En Cuir Marron Quartz Pour Hommes Etanche Chronographe",
+        "price": "329.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/573445/1.jpg?3806",
+        "description": "N/A",
+        "category": "Benyar Montre Bracelet En Cuir Marron Quartz Pour Hommes Etanche Chronographe329.00 Dhs799.00 Dhs59%3.6 out of 5(8)",
+        "type": "N/A"
+    },
+    {
+        "title": "montre numérique avec une calculatrice pour apprendre aux enfants à calculer",
+        "price": "24.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/567046/1.jpg?0429",
+        "description": "N/A",
+        "category": "montre numérique avec une calculatrice pour apprendre aux enfants à calculer24.00 Dhs149.00 Dhs84%3.6 out of 5(10)",
+        "type": "N/A"
+    },
+    {
+        "title": "bracelet pour apple watch magnétique en acier inoxydable avec Boucle de Verrouillage Magnétique-Gris  de 42-44mm",
+        "price": "45.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/918364/1.jpg?1860",
+        "description": "N/A",
+        "category": "- 10% Additionnelbracelet pour apple watch magnétique en acier inoxydable avec Boucle de Verrouillage Magnétique-Gris  de 42-44mm45.00 Dhs312.00 Dhs86%offres à partir de3.4 out of 5(33)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de remplacement Noir pour Redmi Watch 3 Active",
+        "price": "79.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/275636/1.jpg?9065",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de remplacement Noir pour Redmi Watch 3 Active79.00 Dhs129.00 Dhs39%4.2 out of 5(6)",
+        "type": "N/A"
+    },
+    {
+        "title": "XIAOMI Bracelet de remplacement en silicone pour Mi band 3/4 Strap",
+        "price": "36.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/317885/1.jpg?9224",
+        "description": "N/A",
+        "category": "- 10% AdditionnelXIAOMI Bracelet de remplacement en silicone pour Mi band 3/4 Strap36.00 Dhs77.00 Dhs53%4.4 out of 5(13)",
+        "type": "N/A"
+    },
+    {
+        "title": "Câble de Chargement USB pour Garmin Fenix s 6 5 plus 5x vivoactive 3 watch ..",
+        "price": "77.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/233926/1.jpg?0104",
+        "description": "N/A",
+        "category": "- 10% AdditionnelCâble de Chargement USB pour Garmin Fenix s 6 5 plus 5x vivoactive 3 watch ..77.00 Dhs156.00 Dhs51%4.3 out of 5(7)",
+        "type": "N/A"
+    },
+    {
+        "title": "Boîte de rangement en cuir pour montre-bracelet, Organisateur de boîte de Montre pour Hommes & Femmes en Bois, Noir",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/183246/1.jpg?9244",
+        "description": "N/A",
+        "category": "Boîte de rangement en cuir pour montre-bracelet, Organisateur de boîte de Montre pour Hommes & Femmes en Bois, Noir299.00 Dhs399.00 Dhs25%3.5 out of 5(6)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de montre en acier inoxydable à dégagement rapide Noir Pour Huawei Watch GT3 46mm, GT2 46mm GT2 Pro",
+        "price": "169.15 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/243146/1.jpg?9187",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de montre en acier inoxydable à dégagement rapide Noir Pour Huawei Watch GT3 46mm, GT2 46mm GT2 Pro169.15 Dhs249.00 Dhs32%1 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de Montre en Cuir Cousu de 22mm pour HUAWEI GT2 Pro GT3  Huawei GT4 et autres ..",
+        "price": "96.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/893656/1.jpg?7005",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de Montre en Cuir Cousu de 22mm pour HUAWEI GT2 Pro GT3  Huawei GT4 et autres ..96.00 Dhs136.00 Dhs29%",
+        "type": "N/A"
+    },
+    {
+        "title": "Casio Montre Femmes LTP-V007G-9EUDF",
+        "price": "550.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/607363/1.jpg?1643",
+        "description": "N/A",
+        "category": "Boutique OfficielleCasio Montre Femmes LTP-V007G-9EUDF550.00 Dhsoffres à partir de4.7 out of 5(29)",
+        "type": "N/A"
+    },
+    {
+        "title": "Soft Silicone Replacement Straps for Xiaomi Mi Band 5 & 6 Fitness Tracker (Black)",
+        "price": "43.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/064655/1.jpg?3144",
+        "description": "N/A",
+        "category": "- 10% AdditionnelSoft Silicone Replacement Straps for Xiaomi Mi Band 5 & 6 Fitness Tracker (Black)43.00 Dhs199.00 Dhs78%offres à partir de4.2 out of 5(45)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de rechange pour Huawei Band 8 et 9 - Noir",
+        "price": "74.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/490656/1.jpg?8664",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de rechange pour Huawei Band 8 et 9 - Noir74.00 Dhs99.00 Dhs25%4.3 out of 5(7)",
+        "type": "N/A"
+    },
+    {
+        "title": "Screen protecteur écran pour Samsung Galaxy Watch 5 44mm Transparent 1Pcs",
+        "price": "36.55 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/195546/1.jpg?5124",
+        "description": "N/A",
+        "category": "- 10% AdditionnelScreen protecteur écran pour Samsung Galaxy Watch 5 44mm Transparent 1Pcs36.55 Dhs43.00 Dhs15%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Curren Montre de sport pour hommes à quartz inoxydable chronographe sport tendance",
+        "price": "289.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/630536/1.jpg?9314",
+        "description": "N/A",
+        "category": "Curren Montre de sport pour hommes à quartz inoxydable chronographe sport tendance289.00 Dhs499.00 Dhs42%2.5 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Câble Chargement magnétique USB pour montre Mibro Lite, X1 et A1, Color Sport",
+        "price": "50.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/053826/1.jpg?6144",
+        "description": "N/A",
+        "category": "- 10% AdditionnelCâble Chargement magnétique USB pour montre Mibro Lite, X1 et A1, Color Sport50.00 Dhs99.00 Dhs49%4 out of 5(8)",
+        "type": "N/A"
+    },
+    {
+        "title": "Benyar Montre homme Benyar BY-5190 Noir B",
+        "price": "349.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/460546/1.jpg?7225",
+        "description": "N/A",
+        "category": "Benyar Montre homme Benyar BY-5190 Noir B349.00 Dhs429.00 Dhs19%4.8 out of 5(4)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de Montre en Silicone et Nylon Tissé de 22mm pour HUAWEI GT2 Pro GT3  Huawei GT4 et autres ..",
+        "price": "84.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/442656/1.jpg?6704",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de Montre en Silicone et Nylon Tissé de 22mm pour HUAWEI GT2 Pro GT3  Huawei GT4 et autres ..84.00 Dhs136.00 Dhs38%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet Magnétique Noir Boucle Milanaise pour apple watch en Metal Acier inoxydable de LUXE - 44mm",
+        "price": "43.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/565985/1.jpg?5424",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet Magnétique Noir Boucle Milanaise pour apple watch en Metal Acier inoxydable de LUXE - 44mm43.00 Dhs70.00 Dhs39%3.8 out of 5(32)",
+        "type": "N/A"
+    },
+    {
+        "title": "Câble de chargement magnétique USB pour montre Samsung Galaxy watch 5/4/3 active 1/2",
+        "price": "84.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/787685/1.jpg?8286",
+        "description": "N/A",
+        "category": "- 10% AdditionnelCâble de chargement magnétique USB pour montre Samsung Galaxy watch 5/4/3 active 1/284.00 Dhs267.00 Dhs69%4.4 out of 5(7)",
+        "type": "N/A"
+    },
+    {
+        "title": "Autre Watch Band Pins Remover Repair Tool Kit include One Replacement Spring Pusher Pin for stainless steel strap HUA",
+        "price": "43.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/487393/1.jpg?6193",
+        "description": "N/A",
+        "category": "- 10% AdditionnelAutre Watch Band Pins Remover Repair Tool Kit include One Replacement Spring Pusher Pin for stainless steel strap HUA43.00 Dhs199.00 Dhs78%2.3 out of 5(3)",
+        "type": "N/A"
+    },
+    {
+        "title": "Câble de Chargement USB pour Huawei Watch Fit",
+        "price": "79.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/280636/1.jpg?2865",
+        "description": "N/A",
+        "category": "- 10% AdditionnelCâble de Chargement USB pour Huawei Watch Fit79.00 Dhs109.00 Dhs28%4.3 out of 5(7)",
+        "type": "N/A"
+    },
+    {
+        "title": "Adaptateur de Chargement pour Garmin chargeur Portable de Type-C, pour montre intelligente",
+        "price": "57.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/326636/1.jpg?9344",
+        "description": "N/A",
+        "category": "- 10% AdditionnelAdaptateur de Chargement pour Garmin chargeur Portable de Type-C, pour montre intelligente57.00 Dhs156.00 Dhs63%4.4 out of 5(5)",
+        "type": "N/A"
+    },
+    {
+        "title": "Casio Homme  - Cadran noir - Bracelet en acier inoxydable - MTP-1374D-1AVDF",
+        "price": "849.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/153565/1.jpg?7543",
+        "description": "N/A",
+        "category": "Casio Homme  - Cadran noir - Bracelet en acier inoxydable - MTP-1374D-1AVDF849.00 Dhs1,180.00 Dhs28%4.7 out of 5(3)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de rechange en silicone 22mm Noir Pour Huawei Watch GT3 46mm, GT 2 GT2 Pro",
+        "price": "89.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/207585/1.jpg?4446",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de rechange en silicone 22mm Noir Pour Huawei Watch GT3 46mm, GT 2 GT2 Pro89.00 Dhs129.00 Dhs31%4.4 out of 5(27)",
+        "type": "N/A"
+    },
+    {
+        "title": "Adaptateur Chargement pour Garmin chargeur Portable de Type-C pour montre intelligente",
+        "price": "66.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/153146/1.jpg?9726",
+        "description": "N/A",
+        "category": "- 10% AdditionnelAdaptateur Chargement pour Garmin chargeur Portable de Type-C pour montre intelligente66.00 Dhs192.00 Dhs66%",
+        "type": "N/A"
+    },
+    {
+        "title": "Cable de recharge Magnétique pour Huawei Band 6 / Band6 Pro Band 7 / Fit 2",
+        "price": "58.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/787685/1.jpg?8170",
+        "description": "N/A",
+        "category": "- 10% AdditionnelCable de recharge Magnétique pour Huawei Band 6 / Band6 Pro Band 7 / Fit 258.00 Dhs167.00 Dhs65%3.5 out of 5(11)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de remplacement Bleu Marine pour Redmi Watch 3 Active",
+        "price": "79.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/275636/1.jpg?9064",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de remplacement Bleu Marine pour Redmi Watch 3 Active79.00 Dhs129.00 Dhs39%4.8 out of 5(5)",
+        "type": "N/A"
+    },
+    {
+        "title": "Câble de Chargement USB pour Garmin Fenix s 6 5 plus 5x vivoactive 3 watch",
+        "price": "77.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/177046/1.jpg?0110",
+        "description": "N/A",
+        "category": "- 10% AdditionnelCâble de Chargement USB pour Garmin Fenix s 6 5 plus 5x vivoactive 3 watch77.00 Dhs140.00 Dhs45%4.5 out of 5(6)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de rechange pour Huawei Watch Fit Strap Noir",
+        "price": "49.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/116526/1.jpg?3145",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de rechange pour Huawei Watch Fit Strap Noir49.00 Dhs99.00 Dhs51%4.3 out of 5(7)",
+        "type": "N/A"
+    },
+    {
+        "title": "Câble de chargement Type-C Pour Samsung Galaxy watch",
+        "price": "90.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/165546/1.jpg?7783",
+        "description": "N/A",
+        "category": "- 10% AdditionnelCâble de chargement Type-C Pour Samsung Galaxy watch90.00 Dhs216.00 Dhs58%3 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Benyar Montre Bracelet En Cuir Marron Quartz Pour Hommes Etanche Chronographe",
+        "price": "329.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/573445/1.jpg?1759",
+        "description": "N/A",
+        "category": "Benyar Montre Bracelet En Cuir Marron Quartz Pour Hommes Etanche Chronographe329.00 Dhs799.00 Dhs59%3.8 out of 5(5)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de rechange en silicone 20mm Noir pour Samsung Galaxy Watch 4 40/44mm / Watch 4 Classic 42/46mm",
+        "price": "84.15 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/455845/1.jpg?2407",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de rechange en silicone 20mm Noir pour Samsung Galaxy Watch 4 40/44mm / Watch 4 Classic 42/46mm84.15 Dhs129.00 Dhs35%4.1 out of 5(9)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bande de Remplacement Bracelet Noir en acier inoxydable pour Huawei Watch Fit 2",
+        "price": "129.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/055036/1.jpg?7708",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBande de Remplacement Bracelet Noir en acier inoxydable pour Huawei Watch Fit 2129.00 Dhs149.00 Dhs13%4.3 out of 5(4)",
+        "type": "N/A"
+    },
+    {
+        "title": "Curren Montre à quartz étanche pour femme avec bracelet en acier inoxydable, montre-bracelet d'affaires pour femme, design simple et élégant",
+        "price": "199.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/235756/1.jpg?1264",
+        "description": "N/A",
+        "category": "Curren Montre à quartz étanche pour femme avec bracelet en acier inoxydable, montre-bracelet d'affaires pour femme, design simple et élégant199.00 Dhs",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de rechange Magnétique en silicone 22mm Universelle",
+        "price": "96.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/386556/1.jpg?5864",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de rechange Magnétique en silicone 22mm Universelle96.00 Dhs136.00 Dhs29%4.3 out of 5(4)",
+        "type": "N/A"
+    },
+    {
+        "title": "Montre Femme - NOIR",
+        "price": "43.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/36/926754/1.jpg?0955",
+        "description": "N/A",
+        "category": "Montre Femme - NOIR43.49 Dhs49.00 Dhs11%4.5 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de Montre en Silicone et Nylon Tissé de 22mm pour HUAWEI GT2 Pro GT3  Huawei GT4 et autres ..",
+        "price": "84.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/442656/1.jpg?6703",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de Montre en Silicone et Nylon Tissé de 22mm pour HUAWEI GT2 Pro GT3  Huawei GT4 et autres ..84.00 Dhs136.00 Dhs38%4.5 out of 5(4)",
+        "type": "N/A"
+    },
+    {
+        "title": "Mini Focus montre-bracelet noir pour femmes, avec strass, entièrement en diamant a la mode",
+        "price": "270.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/536295/1.jpg?0243",
+        "description": "N/A",
+        "category": "Mini Focus montre-bracelet noir pour femmes, avec strass, entièrement en diamant a la mode270.00 Dhs4 out of 5(4)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bracelet de Montre en Silicone et Nylon Tissé de 22mm pour HUAWEI GT2 Pro GT3  Huawei GT4 et autres ..",
+        "price": "84.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/442656/1.jpg?6703",
+        "description": "N/A",
+        "category": "- 10% AdditionnelBracelet de Montre en Silicone et Nylon Tissé de 22mm pour HUAWEI GT2 Pro GT3  Huawei GT4 et autres ..84.00 Dhs136.00 Dhs38%3 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Chargeur de câble Type-c magnétique pour Apple Watch SE2/SE/8/7/6/5/4/3/2/1",
+        "price": "65.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/932116/1.jpg?2505",
+        "description": "N/A",
+        "category": "- 10% AdditionnelChargeur de câble Type-c magnétique pour Apple Watch SE2/SE/8/7/6/5/4/3/2/165.00 Dhs90.00 Dhs28%3.4 out of 5(8)",
+        "type": "N/A"
+    }
+]
+
+
+//bijoux
+
+[
+    {
+        "title": "Collier Double Papillon Charmant Mode Coréenne En Acier Inoxydable Pour Femmes",
+        "price": "39.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/972456/1.jpg?8398",
+        "description": "N/A",
+        "category": "Collier Double Papillon Charmant Mode Coréenne En Acier Inoxydable Pour Femmes39.99 Dhs79.99 Dhs50%4 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Pi&egrave;ces Bagues Mariage Amoureux DOR&Eacute; En Acier Inoxydable Pour Femmes",
+        "price": "25.49 Dhs - 29.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/001356/1.jpg?7304",
+        "description": "N/A",
+        "category": "2 Pi&egrave;ces Bagues Mariage Amoureux DOR&Eacute; En Acier Inoxydable Pour Femmes25.49 Dhs - 29.99 Dhs49.99 Dhs49%3 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "bracelet et bague en cuivre pur standard",
+        "price": "64.18 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/930035/1.jpg?8595",
+        "description": "N/A",
+        "category": "bracelet et bague en cuivre pur standard64.18 Dhs170.00 Dhs62%offres à partir de4.2 out of 5(20)",
+        "type": "N/A"
+    },
+    {
+        "title": "Collier Papillon Elegant Mode Coréenne En Acier Inoxydable Or Pour Femmes",
+        "price": "33.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/133356/1.jpg?7966",
+        "description": "N/A",
+        "category": "Collier Papillon Elegant Mode Coréenne En Acier Inoxydable Or Pour Femmes33.99 Dhs79.99 Dhs58%",
+        "type": "N/A"
+    },
+    {
+        "title": "Collier Rétro Magnétique Pliant En Forme du Cœur Ouvrable En Acier inoxydable",
+        "price": "42.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/632356/1.jpg?5749",
+        "description": "N/A",
+        "category": "Collier Rétro Magnétique Pliant En Forme du Cœur Ouvrable En Acier inoxydable42.49 Dhs99.99 Dhs58%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "bracelet cuivre pure anti-rhumatisme  ajustable et standard",
+        "price": "37.39 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/852505/1.jpg?2240",
+        "description": "N/A",
+        "category": "bracelet cuivre pure anti-rhumatisme  ajustable et standard37.39 Dhs150.00 Dhs75%offres à partir de3.7 out of 5(10)",
+        "type": "N/A"
+    },
+    {
+        "title": "Ensemble de 6 bagues doré",
+        "price": "39.90 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/115692/1.jpg?7185",
+        "description": "N/A",
+        "category": "Ensemble de 6 bagues doré39.90 Dhs79.00 Dhs49%3.3 out of 5(63)",
+        "type": "N/A"
+    },
+    {
+        "title": "Pack 3 Paires Boucles d'oreilles Créoles En Acier Inoxydable Pour Femmes",
+        "price": "33.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/121356/1.jpg?2753",
+        "description": "N/A",
+        "category": "Pack 3 Paires Boucles d'oreilles Créoles En Acier Inoxydable Pour Femmes33.99 Dhs79.99 Dhs58%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Ensemble de bagues pour femmes",
+        "price": "68.90 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/911704/1.jpg?2547",
+        "description": "N/A",
+        "category": "Ensemble de bagues pour femmes68.90 Dhs199.00 Dhs65%3.7 out of 5(3)",
+        "type": "N/A"
+    },
+    {
+        "title": "Chaîne femmes étoile collier lune doré bijoux mariage",
+        "price": "29.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/604963/1.jpg?4389",
+        "description": "N/A",
+        "category": "Chaîne femmes étoile collier lune doré bijoux mariage29.00 Dhs99.00 Dhs71%1 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Simple bracelet en forme de battement de cœur",
+        "price": "19.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/412285/1.jpg?7145",
+        "description": "N/A",
+        "category": "Simple bracelet en forme de battement de cœur19.00 Dhs",
+        "type": "N/A"
+    },
+    {
+        "title": "Collier à Pendentif Trèfle Rotatif de Luxe En Acier inoxydable Or Pour Femmes",
+        "price": "50.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/687356/1.jpg?8167",
+        "description": "N/A",
+        "category": "Collier à Pendentif Trèfle Rotatif de Luxe En Acier inoxydable Or Pour Femmes50.99 Dhs89.00 Dhs43%4 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "1 Paire Boucles D'oreilles Papillon En Acier Inoxydable Or Pour Femmes",
+        "price": "19.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/972456/1.jpg?8399",
+        "description": "N/A",
+        "category": "1 Paire Boucles D'oreilles Papillon En Acier Inoxydable Or Pour Femmes19.99 Dhs49.99 Dhs60%",
+        "type": "N/A"
+    },
+    {
+        "title": "Collier à Pendentif Trèfle Rotatif de Luxe En Acier inoxydable Pour Femmes",
+        "price": "42.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/687356/1.jpg?8167",
+        "description": "N/A",
+        "category": "Collier à Pendentif Trèfle Rotatif de Luxe En Acier inoxydable Pour Femmes42.49 Dhs89.00 Dhs52%",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Pièces Braceletes de Couple Amoureux Magnétique Coeurs En Acier Inoxydable",
+        "price": "25.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/022356/1.jpg?8905",
+        "description": "N/A",
+        "category": "2 Pièces Braceletes de Couple Amoureux Magnétique Coeurs En Acier Inoxydable25.49 Dhs49.99 Dhs49%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bague Fiançailles Avec Cristal Elegant Tendace En Acier Inoxydable Pour Femmes",
+        "price": "25.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/505356/1.jpg?9191",
+        "description": "N/A",
+        "category": "Bague Fiançailles Avec Cristal Elegant Tendace En Acier Inoxydable Pour Femmes25.49 Dhs49.99 Dhs49%",
+        "type": "N/A"
+    },
+    {
+        "title": "Parures de bijoux Goutte d'Eau de Luxe En Acier Inoxydable ne se décolore jamais",
+        "price": "67.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/645656/1.jpg?6486",
+        "description": "N/A",
+        "category": "Parures de bijoux Goutte d'Eau de Luxe En Acier Inoxydable ne se décolore jamais67.99 Dhs129.99 Dhs48%",
+        "type": "N/A"
+    },
+    {
+        "title": "Bague Noir Simple Elegant En acier Inoxydable 316L Pour Femmes",
+        "price": "25.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/926356/1.jpg?4165",
+        "description": "N/A",
+        "category": "Bague Noir Simple Elegant En acier Inoxydable 316L Pour Femmes25.49 Dhs49.99 Dhs49%",
+        "type": "N/A"
+    },
+    {
+        "title": "Bague Chaine de Luxe Tendance Elegant Or En Acier Inoxydable 316L Pour Femmes",
+        "price": "25.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/931356/1.jpg?2123",
+        "description": "N/A",
+        "category": "Bague Chaine de Luxe Tendance Elegant Or En Acier Inoxydable 316L Pour Femmes25.49 Dhs59.99 Dhs58%4 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "boucles d'oreilles cristal magnétiques  pour hommes et femmes 2piéce",
+        "price": "49.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/770373/1.jpg?5466",
+        "description": "N/A",
+        "category": "boucles d'oreilles cristal magnétiques  pour hommes et femmes 2piéce49.00 Dhs3.5 out of 5(11)",
+        "type": "N/A"
+    },
+    {
+        "title": "Collier Doré pour femme ,Chaine élégante acier inoxydable",
+        "price": "69.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/244436/1.jpg?3787",
+        "description": "N/A",
+        "category": "Collier Doré pour femme ,Chaine élégante acier inoxydable69.00 Dhs119.00 Dhs42%5 out of 5(3)",
+        "type": "N/A"
+    },
+    {
+        "title": "bracelet femme acier inoxydable élégant en couleurs - colorée",
+        "price": "54.40 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/498985/1.jpg?4924",
+        "description": "N/A",
+        "category": "bracelet femme acier inoxydable élégant en couleurs - colorée54.40 Dhs64.00 Dhs15%4 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Piercing pour nez avec Strass ,Piercing À Nez Pour Femme",
+        "price": "59.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/353136/1.jpg?8083",
+        "description": "N/A",
+        "category": "Piercing pour nez avec Strass ,Piercing À Nez Pour Femme59.00 Dhs99.00 Dhs40%1 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Pi&egrave;ces Bagues Coeur De Luxe En Acier Inoxydable Or Pour Femmes",
+        "price": "25.49 Dhs - 29.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/926356/1.jpg?4050",
+        "description": "N/A",
+        "category": "2 Pi&egrave;ces Bagues Coeur De Luxe En Acier Inoxydable Or Pour Femmes25.49 Dhs - 29.99 Dhs59.99 Dhs58%",
+        "type": "N/A"
+    },
+    {
+        "title": "2 feuilles bijou collier pendentif en simili cristal cadeau pour femmes filles",
+        "price": "19.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/102943/1.jpg?9819",
+        "description": "N/A",
+        "category": "2 feuilles bijou collier pendentif en simili cristal cadeau pour femmes filles19.00 Dhs49.00 Dhs61%3.3 out of 5(48)",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Bracelets Style Yin Yang Noir et Blanc Cadeau Pour les Couples/Meilleurs Amis",
+        "price": "21.24 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/312356/1.jpg?9306",
+        "description": "N/A",
+        "category": "2 Bracelets Style Yin Yang Noir et Blanc Cadeau Pour les Couples/Meilleurs Amis21.24 Dhs49.99 Dhs58%",
+        "type": "N/A"
+    },
+    {
+        "title": "Collier pour Femme - chaîne ras du cou pendentif triangle",
+        "price": "49.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/698336/1.jpg?2543",
+        "description": "N/A",
+        "category": "Collier pour Femme - chaîne ras du cou pendentif triangle49.00 Dhs89.00 Dhs45%1 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "faux Piercing nez magnetic anneau cerceau Septum Non Piercing",
+        "price": "45.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/640116/1.jpg?3991",
+        "description": "N/A",
+        "category": "faux Piercing nez magnetic anneau cerceau Septum Non Piercing45.00 Dhs3 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "bracelet Gourmette cœur doré pour femmes",
+        "price": "43.90 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/650216/1.jpg?7590",
+        "description": "N/A",
+        "category": "bracelet Gourmette cœur doré pour femmes43.90 Dhs69.00 Dhs36%4.5 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Pack 2 Colliers + 2 Bracelets Style Yin Yang Pour les Couples Meilleurs Amis",
+        "price": "33.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/312356/1.jpg?9305",
+        "description": "N/A",
+        "category": "Pack 2 Colliers + 2 Bracelets Style Yin Yang Pour les Couples Meilleurs Amis33.99 Dhs89.99 Dhs62%",
+        "type": "N/A"
+    },
+    {
+        "title": "Bague Elegant Titanium Tendance Argent Or En Acier Inoxydable 316L Pour Femmes",
+        "price": "25.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/121356/1.jpg?3406",
+        "description": "N/A",
+        "category": "Bague Elegant Titanium Tendance Argent Or En Acier Inoxydable 316L Pour Femmes25.49 Dhs49.99 Dhs49%5 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Boucles d'oreilles de luxe Crystal En Acier Inoxydable ne se décolore jamais",
+        "price": "42.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/771456/1.jpg?9144",
+        "description": "N/A",
+        "category": "2 Boucles d'oreilles de luxe Crystal En Acier Inoxydable ne se décolore jamais42.49 Dhs69.99 Dhs39%",
+        "type": "N/A"
+    },
+    {
+        "title": "gourmette élégant - Bracelet en acier inoxydable,Gift ,Cadeau",
+        "price": "69.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/844916/1.jpg?5429",
+        "description": "N/A",
+        "category": "gourmette élégant - Bracelet en acier inoxydable,Gift ,Cadeau69.00 Dhs129.00 Dhs47%4 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "2 pieces homme boucles d'oreilles simple en acier inoxydable",
+        "price": "29.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/600134/1.jpg?8799",
+        "description": "N/A",
+        "category": "2 pieces homme boucles d'oreilles simple en acier inoxydable29.00 Dhs47.00 Dhs38%4.7 out of 5(3)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bague lumineuse Lord of The Ring En Acier Inoxydable Anneau Brillant Unisex",
+        "price": "26.39 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/133356/1.jpg?7965",
+        "description": "N/A",
+        "category": "Bague lumineuse Lord of The Ring En Acier Inoxydable Anneau Brillant Unisex26.39 Dhs59.99 Dhs56%",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Bagues pour Couple Hug Calin Amour Cadeau femmes hommes en Argent 925",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/96/681414/1.jpg?4174",
+        "description": "N/A",
+        "category": "Boutique Officielle2 Bagues pour Couple Hug Calin Amour Cadeau femmes hommes en Argent 925299.00 Dhs5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Bagues  Couple  Amour Cadeau femme homme Argent 925",
+        "price": "299.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/89/392006/1.jpg?1304",
+        "description": "N/A",
+        "category": "2 Bagues  Couple  Amour Cadeau femme homme Argent 925299.00 Dhs",
+        "type": "N/A"
+    },
+    {
+        "title": "Boucles d'oreilles doré coeur pierre zircon pour femmes haute qualité",
+        "price": "29.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/626116/1.jpg?6043",
+        "description": "N/A",
+        "category": "Boucles d'oreilles doré coeur pierre zircon pour femmes haute qualité29.00 Dhs99.00 Dhs71%4.3 out of 5(6)",
+        "type": "N/A"
+    },
+    {
+        "title": "Bague Serpent de Luxe Tendance Elegant Or En Acier Inoxydable 316L Pour Femmes",
+        "price": "25.49 Dhs - 29.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/128556/1.jpg?3766",
+        "description": "N/A",
+        "category": "Bague Serpent de Luxe Tendance Elegant Or En Acier Inoxydable 316L Pour Femmes25.49 Dhs - 29.99 Dhs59.99 Dhs58%4.5 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Boucles d'oreilles Créoles Minimaliste En Acier Inoxydable 20mm Pour Femmes",
+        "price": "16.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/121356/1.jpg?2753",
+        "description": "N/A",
+        "category": "2 Boucles d'oreilles Créoles Minimaliste En Acier Inoxydable 20mm Pour Femmes16.99 Dhs49.99 Dhs66%5 out of 5(1)",
+        "type": "N/A"
+    }
+]
+
+
+//lunettes de soleil
+
+
+[
+    {
+        "title": "Magic Vision Lunettes a Clip magnétique 6 en 1 Polarisées ultra-léger pour Vue ou Soleil ou night vision 1",
+        "price": "99.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/037014/1.jpg?6933",
+        "description": "N/A",
+        "category": "Magic Vision Lunettes a Clip magnétique 6 en 1 Polarisées ultra-léger pour Vue ou Soleil ou night vision 199.00 Dhs319.00 Dhs69%2.5 out of 5(4)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunettes de soleil sans fil avec écouteurs Bluetooth, Conduite Cyclisme Sport",
+        "price": "149.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/695646/1.jpg?1906",
+        "description": "N/A",
+        "category": "Lunettes de soleil sans fil avec écouteurs Bluetooth, Conduite Cyclisme Sport149.00 Dhs350.00 Dhs57%4 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunette de soleil homme a la mode 2024 avec boite cadeau",
+        "price": "99.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/125156/1.jpg?0508",
+        "description": "N/A",
+        "category": "Lunette de soleil homme a la mode 2024 avec boite cadeau99.00 Dhs289.00 Dhs66%1 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunettes De Soleil Fashion",
+        "price": "85.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/124784/1.jpg?3954",
+        "description": "N/A",
+        "category": "Lunettes De Soleil Fashion85.00 Dhs299.00 Dhs72%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunettes de soleil rondes pour hommes et femmes de style moderne à la mode vintage",
+        "price": "169.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/300224/1.jpg?7366",
+        "description": "N/A",
+        "category": "Lunettes de soleil rondes pour hommes et femmes de style moderne à la mode vintage169.00 Dhs199.00 Dhs15%3.2 out of 5(5)",
+        "type": "N/A"
+    },
+    {
+        "title": "2 Lunette de soleil jaguar a la mode 2024 avec boite cadeau PRMO",
+        "price": "195.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/714256/1.jpg?5708",
+        "description": "N/A",
+        "category": "2 Lunette de soleil jaguar a la mode 2024 avec boite cadeau PRMO195.00 Dhs395.00 Dhs51%",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection 100% Polarisée",
+        "price": "279.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/465846/1.jpg?9863",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection 100% Polarisée279.00 Dhs699.00 Dhs60%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Chaînes de lunettes de soleil en or à la mode, 1 pièce, porte lunettes, collier, accessoires, pour femme",
+        "price": "59.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/285214/1.jpg?9815",
+        "description": "N/A",
+        "category": "Chaînes de lunettes de soleil en or à la mode, 1 pièce, porte lunettes, collier, accessoires, pour femme59.00 Dhs3.7 out of 5(6)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunette de soleil homme a la mode 2022 avec boite cadeau",
+        "price": "89.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/992726/1.jpg?7875",
+        "description": "N/A",
+        "category": "Lunette de soleil homme a la mode 2022 avec boite cadeau89.00 Dhs179.00 Dhs50%",
+        "type": "N/A"
+    },
+    {
+        "title": "DESIGN hommes mode armé lunettes de soleil couleur magnifique",
+        "price": "89.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/566384/1.jpg?7459",
+        "description": "N/A",
+        "category": "DESIGN hommes mode armé lunettes de soleil couleur magnifique89.00 Dhs299.00 Dhs70%1 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "SIMPRECT – lunettes de soleil polarisées pour hommes, rétro miroir carré",
+        "price": "159.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/544114/1.jpg?8709",
+        "description": "N/A",
+        "category": "SIMPRECT – lunettes de soleil polarisées pour hommes, rétro miroir carré159.00 Dhs4.6 out of 5(5)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunettes de soleil carrées vintage tendance rectangulaires populaire pour hommes",
+        "price": "76.49 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/687356/1.jpg?8164",
+        "description": "N/A",
+        "category": "Lunettes de soleil carrées vintage tendance rectangulaires populaire pour hommes76.49 Dhs119.99 Dhs36%1 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Petites Lunettes de Soleil Carrées Rectangulaires Rétro Unisexe Vintage Gris",
+        "price": "75.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/472156/1.jpg?8161",
+        "description": "N/A",
+        "category": "Petites Lunettes de Soleil Carrées Rectangulaires Rétro Unisexe Vintage Gris75.00 Dhs199.00 Dhs62%",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection Solaire Effet Mirroir",
+        "price": "273.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/215656/1.jpg?0355",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection Solaire Effet Mirroir273.00 Dhs650.00 Dhs58%",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunettes de soleil en aluminium pour hommes polarisées",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/036846/1.jpg?8125",
+        "description": "N/A",
+        "category": "Olux Lunettes de soleil en aluminium pour hommes polarisées249.00 Dhs690.00 Dhs64%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunettes magic vision 5 ON 1 PIECE",
+        "price": "99.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/830645/1.jpg?7874",
+        "description": "N/A",
+        "category": "Lunettes magic vision 5 ON 1 PIECE99.00 Dhs",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunettes de soleil FASHION pour homme Protection UV 400",
+        "price": "289.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/465846/1.jpg?9863",
+        "description": "N/A",
+        "category": "Olux Lunettes de soleil FASHION pour homme Protection UV 400289.00 Dhs890.00 Dhs68%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunettes de soleil FASHION pour homme Protection UV 400",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/28/465846/1.jpg?9863",
+        "description": "N/A",
+        "category": "Olux Lunettes de soleil FASHION pour homme Protection UV 400249.00 Dhs690.00 Dhs64%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunettes de soleil Thug life pixelisées de memes trolls like a boss glasses Noir",
+        "price": "83.99 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/050356/1.jpg?9268",
+        "description": "N/A",
+        "category": "Lunettes de soleil Thug life pixelisées de memes trolls like a boss glasses Noir83.99 Dhs129.99 Dhs35%3 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Pratiques Magnétiques 3 en 1",
+        "price": "95.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/274315/1.jpg?5345",
+        "description": "N/A",
+        "category": "Pratiques Magnétiques 3 en 195.00 Dhsoffres à partir de5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunette de soleil homme a la mode 2024 avec boite cadeau",
+        "price": "119.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/611156/1.jpg?3251",
+        "description": "N/A",
+        "category": "Lunette de soleil homme a la mode 2024 avec boite cadeau119.00 Dhs279.00 Dhs57%1 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunettes de vision nocturne et soleil rondes polarisées Petites Lunettes de conduite jaune anti-éblouissement",
+        "price": "149.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/479444/1.jpg?0670",
+        "description": "N/A",
+        "category": "Lunettes de vision nocturne et soleil rondes polarisées Petites Lunettes de conduite jaune anti-éblouissement149.00 Dhs194.00 Dhs23%5 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "lunettes de soleil noir haute qualité avec boite de protection 2018-8843A",
+        "price": "69.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/797225/1.jpg?4341",
+        "description": "N/A",
+        "category": "lunettes de soleil noir haute qualité avec boite de protection 2018-8843A69.00 Dhs199.00 Dhs65%",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection Solaire Style Carré",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/490656/1.jpg?9384",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection Solaire Style Carré249.00 Dhs490.00 Dhs49%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection solaire Polarisée de Tendance",
+        "price": "279.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/96/474656/1.jpg?7066",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection solaire Polarisée de Tendance279.00 Dhs940.00 Dhs70%",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunettes de soleil polarisées de luxe pour hommes",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/036846/1.jpg?8485",
+        "description": "N/A",
+        "category": "Olux Lunettes de soleil polarisées de luxe pour hommes249.00 Dhs390.00 Dhs36%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunette cadre femmes + pochette + mochoire",
+        "price": "98.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/513926/1.jpg?3004",
+        "description": "N/A",
+        "category": "Lunette cadre femmes + pochette + mochoire98.00 Dhs119.00 Dhs18%",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection 100% Polarisée Anti-UV400",
+        "price": "279.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/036846/1.jpg?8365",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection 100% Polarisée Anti-UV400279.00 Dhs890.00 Dhs69%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection Solaire Style Carré",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/68/490656/1.jpg?9325",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection Solaire Style Carré249.00 Dhs490.00 Dhs49%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection Solaire de Tendance",
+        "price": "278.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/490656/1.jpg?9324",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection Solaire de Tendance278.00 Dhs890.00 Dhs69%offres à partir de4.5 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "2psc Lunettes de conduite  hd protection UV protéger",
+        "price": "119.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/551035/1.jpg?4836",
+        "description": "N/A",
+        "category": "2psc Lunettes de conduite  hd protection UV protéger119.00 Dhs199.00 Dhs40%3 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunette de solie ronde classique 2024 نظارة شمسية",
+        "price": "95.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/227156/1.jpg?0623",
+        "description": "N/A",
+        "category": "Lunette de solie ronde classique 2024 نظارة شمسية95.00 Dhs179.00 Dhs47%4 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunettes de soleil unisexe en aluminium pour hommes / femmes",
+        "price": "89.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/487214/1.jpg?5400",
+        "description": "N/A",
+        "category": "Lunettes de soleil unisexe en aluminium pour hommes / femmes89.00 Dhs399.00 Dhs78%4.1 out of 5(7)",
+        "type": "N/A"
+    },
+    {
+        "title": "Lunette de soleil homme a la mode 2022 avec boite cadeau",
+        "price": "89.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/464785/1.jpg?7923",
+        "description": "N/A",
+        "category": "Lunette de soleil homme a la mode 2022 avec boite cadeau89.00 Dhs299.00 Dhs70%",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection en aluminium Polarisée Anti-UV400",
+        "price": "850.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/036846/1.jpg?8485",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection en aluminium Polarisée Anti-UV400850.00 Dhs5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection Solaire Fashion Style",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/350656/1.jpg?0521",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection Solaire Fashion Style249.00 Dhs449.00 Dhs45%",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection solaire Polarisée de Tendance",
+        "price": "295.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/683746/1.jpg?2586",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection solaire Polarisée de Tendance295.00 Dhs590.00 Dhs50%5 out of 5(1)",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunettes de soleil carrées pour hommes en métal, tendance",
+        "price": "279.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/683746/1.jpg?7806",
+        "description": "N/A",
+        "category": "Olux Lunettes de soleil carrées pour hommes en métal, tendance279.00 Dhs800.00 Dhs65%offres à partir de",
+        "type": "N/A"
+    },
+    {
+        "title": "Round Metal Sunglasses Steampunk Unisex Fashion Retro Vintage",
+        "price": "95.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/724916/1.jpg?4684",
+        "description": "N/A",
+        "category": "Round Metal Sunglasses Steampunk Unisex Fashion Retro Vintage95.00 Dhs149.00 Dhs36%5 out of 5(2)",
+        "type": "N/A"
+    },
+    {
+        "title": "Olux Lunette de Protection Solaire Style Carré",
+        "price": "249.00 Dhs",
+        "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/505656/1.jpg?3366",
+        "description": "N/A",
+        "category": "Olux Lunette de Protection Solaire Style Carré249.00 Dhs390.00 Dhs36%",
+        "type": "N/A"
+    }
+]
+
+);

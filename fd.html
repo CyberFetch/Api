@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List</title>
+</head>
+<body>
+
+    <h1>Jumia Products</h1>
+    <!-- Ajout du conteneur avec l'ID "card-container" -->
+    <div id="card-container"></div>
+
+    <script>
+        // Liste des produits
+        const trr = [
+            {
+                "title": "Benyar Montre Bracelet En Cuir Marron Quartz Pour Hommes Etanche Chronographe",
+                "price": "329.00 Dhs",
+                "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/573445/1.jpg?3806",
+                "description": "N/A",
+                "category": "Montre pour homme",
+                "type": "N/A"
+            },
+            {
+                "title": "Montre numérique avec une calculatrice pour apprendre aux enfants à calculer",
+                "price": "24.00 Dhs",
+                "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/567046/1.jpg?0429",
+                "description": "Montre éducative pour enfants",
+                "category": "Montre pour enfant",
+                "type": "N/A"
+            },
+            {
+                "title": "Bracelet pour Apple Watch magnétique en acier inoxydable",
+                "price": "45.00 Dhs",
+                "image_url": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/918364/1.jpg?1860",
+                "description": "Bracelet en acier inoxydable pour Apple Watch",
+                "category": "Accessoires pour montre",
+                "type": "N/A"
+            }
+        ];
+
+        // Sélection du conteneur
+        const container = document.getElementById('card-container');
+
+        // Affichage des produits
+        trr.forEach(item => {
+            const card = `
+                <div style="border: 1px solid #ccc; padding: 10px; margin: 10px; width: 300px; display: inline-block; vertical-align: top;">
+                    <img src="${item.image_url}" alt="${item.title}" style="width: 100%;">
+                    <h3>${item.title}</h3>
+                    <p><strong>Prix:</strong> ${item.price}</p>
+                    <p><strong>Description:</strong> ${item.description}</p>
+                </div>
+            `;
+            container.innerHTML += card;
+        });
+    </script>
+
+</body>
+</html>

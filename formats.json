@@ -1,0 +1,1142 @@
+[
+    {
+      "id": 1,
+      "nom": "Chaussures Hommes",
+      "types": [
+        {
+          "id": 101,
+          "nom": "Chaussures Hommes",
+          "produits": [
+            {
+              "id": 1001,
+              "nom": "Adidas Chaussure Cloudfoam Comfy -Bleu",
+              "prix": 299.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/769756/1.jpg?6073",
+              "stock": 20
+            },
+            {
+              "id": 1002,
+              "nom": "Adidas Chaussure Lite Racer 4.0 -Blanc",
+              "prix": 279.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/41/621656/1.jpg?1910",
+              "stock": 15
+            },
+            {
+              "id": 1003,
+              "nom": "Adidas Chaussure Lite Racer 4.0 -Bleu",
+              "prix": 299.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/621656/1.jpg?0016",
+              "stock": 10
+            },
+            {
+              "id": 1004,
+              "nom": "Adidas Chaussure Lite Racer 4.0 -Gris",
+              "prix": 299.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/621656/1.jpg?9853",
+              "stock": 10
+            },
+            {
+              "id": 1005,
+              "nom": "Birkenstock Arizona Vegan Textile Canva Stone Coin",
+              "prix": 419.0,
+              "description": "N/A",
+              "marque": "Birkenstock",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/980356/1.jpg?9705",
+              "stock": 10
+            },
+            {
+              "id": 1006,
+              "nom": "Nike Downshifter 11 Gs - Noir",
+              "prix": 384.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/693656/1.jpg?6411",
+              "stock": 10
+            },
+            {
+              "id": 1007,
+              "nom": "Adidas Claquette Adilette Comfort- Noir",
+              "prix": 245.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/560656/1.jpg?6701",
+              "stock": 10
+            },
+            {
+              "id": 1008,
+              "nom": "Adidas Claquettes Eezay - Noir",
+              "prix": 149.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/343056/1.jpg?5564",
+              "stock": 10
+            },
+            {
+              "id": 1009,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Hommes -Gris",
+              "prix": 450.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/527656/1.jpg?8839",
+              "stock": 10
+            },
+            {
+              "id": 1010,
+              "nom": "Birkenstock Barbados EVA Gym Active Red",
+              "prix": 189.0,
+              "description": "N/A",
+              "marque": "Birkenstock",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/855936/1.jpg?6343",
+              "stock": 10
+            },
+            {
+              "id": 1011,
+              "nom": "Under Armour Chaussures De Course Ua Surge 3 Pour Hommes -Noir",
+              "prix": 450.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/527656/1.jpg?3599",
+              "stock": 10
+            },
+            {
+              "id": 1012,
+              "nom": "Adidas Claquette Eezay - Noir",
+              "prix": 149.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/688146/1.jpg?3766",
+              "stock": 10
+            },
+            {
+              "id": 1013,
+              "nom": "Birkenstock Arizona Vegan Textile Canva Eggshell",
+              "prix": 419.0,
+              "description": "N/A",
+              "marque": "Birkenstock",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/42/980356/1.jpg?9706",
+              "stock": 10
+            },
+            {
+              "id": 1014,
+              "nom": "D'Urbano D’090 BASKET EN CUIR DAIM GRIS",
+              "prix": 239.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/059656/1.jpg?3685",
+              "stock": 10
+            },
+            {
+              "id": 1015,
+              "nom": "Under Armour Chaussures De Course Ua Hovr™ Turbulence 2 -Noir",
+              "prix": 799.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/527656/1.jpg?2778",
+              "stock": 10
+            },
+            {
+              "id": 1016,
+              "nom": "Puma Chaussure Rs-Metric Trail -Multicouleur",
+              "prix": 520.0,
+              "description": "N/A",
+              "marque": "Puma",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/627656/1.jpg?1634",
+              "stock": 10
+            },
+            {
+              "id": 1017,
+              "nom": "D'Urbano Chaussures D'Urbano 100 % Cuir - Noir.",
+              "prix": 229.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/13/955115/1.jpg?7452",
+              "stock": 10
+            },
+            {
+              "id": 1018,
+              "nom": "Birkenstock Arizona EVA Gym Ultra Blue",
+              "prix": 239.02,
+              "description": "N/A",
+              "marque": "Birkenstock",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/065936/1.jpg?8743",
+              "stock": 10
+            },
+            {
+              "id": 1019,
+              "nom": "Adidas Claquette Eezay - Bleu",
+              "prix": 175.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/343056/1.jpg?5625",
+              "stock": 10
+            },
+            {
+              "id": 1020,
+              "nom": "Adidas Sandale Adicane -Beige",
+              "prix": 275.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/969756/1.jpg?1181",
+              "stock": 10
+            },
+            {
+              "id": 1021,
+              "nom": "Birkenstock Milano Vegan Micro Fiber Desert Dust Indigo Blue",
+              "prix": 419.0,
+              "description": "N/A",
+              "marque": "Birkenstock",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/36/665756/1.jpg?8863",
+              "stock": 10
+            },
+            {
+              "id": 1022,
+              "nom": "D'Urbano Chaussures D'Urbano 100 % Cuir - Tabac.",
+              "prix": 229.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/955115/1.jpg?7453",
+              "stock": 10
+            },
+            {
+              "id": 1023,
+              "nom": "D'Urbano Bottines D'Urbano en cuir - Tabac.",
+              "prix": 219.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/397673/1.jpg?1598",
+              "stock": 10
+            },
+            {
+              "id": 1024,
+              "nom": "Adidas Chaussure Duramo Speed -Noir",
+              "prix": 749.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/969756/1.jpg?4874",
+              "stock": 10
+            },
+            {
+              "id": 1025,
+              "nom": "D'Urbano Baskets basses D'Urbano en Cuir Daim - Bleu.",
+              "prix": 239.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/741815/1.jpg?9039",
+              "stock": 10
+            },
+            {
+              "id": 1026,
+              "nom": "Adidas Claquette Eezay- Vert",
+              "prix": 149.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/560656/1.jpg?9733",
+              "stock": 10
+            },
+            {
+              "id": 1027,
+              "nom": "D'Urbano D’152 BASKET EN CUIR BLANC",
+              "prix": 215.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/161256/1.jpg?3464",
+              "stock": 10
+            },
+            {
+              "id": 1028,
+              "nom": "Adidas Chaussure de trail running Terrex Trail Rider -Gris",
+              "prix": 1035.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/969756/1.jpg?6138",
+              "stock": 10
+            },
+            {
+              "id": 1029,
+              "nom": "OXIDE Chaussures Hommes - Beige",
+              "prix": 179.0,
+              "description": "N/A",
+              "marque": "OXIDE",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/96/808756/1.jpg?4473",
+              "stock": 10
+            },
+            {
+              "id": 1030,
+              "nom": "D'Urbano Baskets Basses D'Urbano en cuir - Blanc / Vert.",
+              "prix": 259.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/556673/1.jpg?5518",
+              "stock": 10
+            },
+            {
+              "id": 1031,
+              "nom": "UGG Fluff You Black fluff",
+              "prix": 439.0,
+              "description": "N/A",
+              "marque": "UGG",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/213646/1.jpg?1764",
+              "stock": 10
+            },
+            {
+              "id": 1032,
+              "nom": "Reebok Baskets Pour Unisex Noir Reebok Court Advance - Noir",
+              "prix": 612.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/41/050756/1.jpg?8826",
+              "stock": 10
+            },
+            {
+              "id": 1033,
+              "nom": "Kinetix Chaussures Hommes - Gris",
+              "prix": 194.0,
+              "description": "N/A",
+              "marque": "Kinetix",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/808756/1.jpg?4472",
+              "stock": 10
+            },
+            {
+              "id": 1034,
+              "nom": "Reebok Baskets Pour Unisex Bleu Reebok Court Retro - Bleu",
+              "prix": 532.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/050756/1.jpg?8825",
+              "stock": 10
+            },
+            {
+              "id": 1035,
+              "nom": "UGG MENS ASCOT SLIPPER Cognac",
+              "prix": 475.0,
+              "description": "N/A",
+              "marque": "UGG",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/48/524146/1.jpg?7862",
+              "stock": 10
+            },
+            {
+              "id": 1036,
+              "nom": "D'Urbano Chaussures D'Urbano 100 % Cuir - Noir.",
+              "prix": 219.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/856673/1.jpg?5666",
+              "stock": 10
+            },
+            {
+              "id": 1037,
+              "nom": "D'Urbano Baskets à lacets montants en Cuir - Noir.",
+              "prix": 219.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/114006/1.jpg?0165",
+              "stock": 10
+            },
+            {
+              "id": 1038,
+              "nom": "D'Urbano Chaussures D'Urbano 100 % Cuir Daim - Noir.",
+              "prix": 199.0,
+              "description": "N/A",
+              "marque": "D'Urbano",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/03/609025/1.jpg?7208",
+              "stock": 10
+            },
+            {
+              "id": 1039,
+              "nom": "US POLO Chaussures Hommes - Blanc",
+              "prix": 329.0,
+              "description": "N/A",
+              "marque": "US POLO",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/848656/1.jpg?5944",
+              "stock": 10
+            },
+            {
+              "id": 1040,
+              "nom": "TOREX Chaussures Hommes - Noir",
+              "prix": 189.0,
+              "description": "N/A",
+              "marque": "TOREX",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/728656/1.jpg?7034",
+              "stock": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Chaussures Femmes",
+      "types": [
+        {
+          "id": 201,
+          "nom": "Chaussures Femmes",
+          "produits": [
+            {
+              "id": 2001,
+              "nom": "Adidas Chaussure Ultraboost 1.0 -Gris",
+              "prix": 1009.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/969756/1.jpg?6311",
+              "stock": 10
+            },
+            {
+              "id": 2002,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 – Pour Femmes Rose",
+              "prix": 430.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/627656/1.jpg?5261",
+              "stock": 10
+            },
+            {
+              "id": 2003,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Femmes -Gris",
+              "prix": 599.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/627656/5.jpg?7238",
+              "stock": 10
+            },
+            {
+              "id": 2004,
+              "nom": "Adidas Chaussure X_PLRBOOST -Violet",
+              "prix": 1009.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/969756/1.jpg?3428",
+              "stock": 10
+            },
+            {
+              "id": 2005,
+              "nom": "Nike chaussures GRIS COURT BOROUGH LOW RECRAFT (GS)",
+              "prix": 690.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/542656/1.jpg?5626",
+              "stock": 10
+            },
+            {
+              "id": 2006,
+              "nom": "Under Armour chaussures NOIR UA W MICRO G PURSUIT BP",
+              "prix": 560.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/542656/1.jpg?5624",
+              "stock": 10
+            },
+            {
+              "id": 2007,
+              "nom": "Nike chaussures white AIR MAX INTRLK LITE (GS)",
+              "prix": 870.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/542656/1.jpg?6290",
+              "stock": 10
+            },
+            {
+              "id": 2008,
+              "nom": "Espadrilles femmes, Baskets aérées pour femme, chaussure de sport femme.",
+              "prix": 234.0,
+              "description": "N/A",
+              "marque": "Espadrilles",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/205795/1.jpg?3685",
+              "stock": 10
+            },
+            {
+              "id": 2009,
+              "nom": "Reebok ENERGYLUX 3 CHAUSSURES FEMMES",
+              "prix": 395.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/344056/1.jpg?0946",
+              "stock": 10
+            },
+            {
+              "id": 2010,
+              "nom": "Nike chaussures BEIGE W PHOENIX WAFFLE",
+              "prix": 1110.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/542656/1.jpg?6352",
+              "stock": 10
+            },
+            {
+              "id": 2011,
+              "nom": "Under Armour chaussures NOIR UA W Charged Aurora",
+              "prix": 665.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/442656/1.jpg?6349",
+              "stock": 10
+            },
+            {
+              "id": 2012,
+              "nom": "Adidas chaussures NOIR ADVANTAGE BASE",
+              "prix": 720.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/542656/1.jpg?7843",
+              "stock": 10
+            },
+            {
+              "id": 2013,
+              "nom": "Reebok Royal Glide Ripple Doub Chaussures Femmes",
+              "prix": 441.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/48/344056/1.jpg?0944",
+              "stock": 10
+            },
+            {
+              "id": 2014,
+              "nom": "Espadrilles femmes, Baskets aérées pour femme, chaussure de sport femme.",
+              "prix": 234.0,
+              "description": "N/A",
+              "marque": "Espadrilles",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/205795/1.jpg?3685",
+              "stock": 10
+            },
+            {
+              "id": 2015,
+              "nom": "Adidas chaussures white STAN SMITH J",
+              "prix": 780.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/542656/1.jpg?5625",
+              "stock": 10
+            },
+            {
+              "id": 2016,
+              "nom": "Adidas chaussures NOIR ADILETTE LITE J",
+              "prix": 305.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/84/152656/1.jpg?6624",
+              "stock": 10
+            },
+            {
+              "id": 2017,
+              "nom": "Nike chaussures ROSE Blazer Low Suede",
+              "prix": 1035.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/55/152656/1.jpg?5626",
+              "stock": 10
+            },
+            {
+              "id": 2018,
+              "nom": "Under Armour chaussures NOIR UA W MICRO G PURSUIT BP",
+              "prix": 560.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/442656/1.jpg?5743",
+              "stock": 10
+            },
+            {
+              "id": 2019,
+              "nom": "Nike chaussures NOIR WMNS FLEX EXPERIENCE RN 10",
+              "prix": 725.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/38/542656/1.jpg?5743",
+              "stock": 10
+            },
+            {
+              "id": 2020,
+              "nom": "Nike chaussures white AIR MAX FURYOSA",
+              "prix": 1750.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/53/542656/1.jpg?5684",
+              "stock": 10
+            },
+            {
+              "id": 2021,
+              "nom": "Reebok DayStart Onlux CHAUSSURES FEMMES",
+              "prix": 426.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/344056/1.jpg?2852",
+              "stock": 10
+            },
+            {
+              "id": 2022,
+              "nom": "Asics chaussures GRIS CONTEND 5 GS",
+              "prix": 490.0,
+              "description": "N/A",
+              "marque": "Asics",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/442656/1.jpg?7853",
+              "stock": 10
+            },
+            {
+              "id": 2023,
+              "nom": "Under Armour chaussures GRIS UA GS PURSUIT BP",
+              "prix": 510.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/542656/1.jpg?6290",
+              "stock": 10
+            },
+            {
+              "id": 2024,
+              "nom": "Adidas chaussures white SUPERSTAR J",
+              "prix": 715.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/542656/1.jpg?5685",
+              "stock": 10
+            },
+            {
+              "id": 2025,
+              "nom": "Adidas chaussures rose SUPERSTAR XLG J",
+              "prix": 810.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/542656/1.jpg?5627",
+              "stock": 10
+            },
+            {
+              "id": 2026,
+              "nom": "Adidas chaussures BLEU OZWEEGO J NMARIN/NMARIN/FTWWHT",
+              "prix": 990.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/66/542656/1.jpg?7846",
+              "stock": 10
+            },
+            {
+              "id": 2027,
+              "nom": "Nike chaussures white W BLAZER MID '77",
+              "prix": 1250.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/542656/1.jpg?5684",
+              "stock": 10
+            },
+            {
+              "id": 2028,
+              "nom": "Under Armour chaussures GRIS UA W SURGE 3",
+              "prix": 560.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/542656/1.jpg?6285",
+              "stock": 10
+            },
+            {
+              "id": 2029,
+              "nom": "Reebok ROYAL TECHQUE T BOLD 2 CHAUSSURES FEMMES",
+              "prix": 408.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/344056/1.jpg?0943",
+              "stock": 10
+            },
+            {
+              "id": 2030,
+              "nom": "Adidas chaussures white SUPERSTAR VEGAN",
+              "prix": 1250.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/89/542656/1.jpg?8561",
+              "stock": 10
+            },
+            {
+              "id": 2031,
+              "nom": "Under Armour chaussures NOIR UA W MOJO 2",
+              "prix": 560.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/152656/1.jpg?5624",
+              "stock": 10
+            },
+            {
+              "id": 2032,
+              "nom": "Nike chaussures vert WMNS DOWNSHIFTER 7",
+              "prix": 655.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/542656/1.jpg?7845",
+              "stock": 10
+            },
+            {
+              "id": 2033,
+              "nom": "Adidas chaussures NOIR SUPERSTAR J",
+              "prix": 715.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/542656/1.jpg?6229",
+              "stock": 10
+            },
+            {
+              "id": 2034,
+              "nom": "Nike chaussures ORANGE WMNS FLEX 2018 RN",
+              "prix": 840.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/542656/1.jpg?7850",
+              "stock": 10
+            },
+            {
+              "id": 2035,
+              "nom": "Puma chaussures NOIR SF Drift Cat 7S Ultra JR",
+              "prix": 565.0,
+              "description": "N/A",
+              "marque": "Puma",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/44/542656/1.jpg?7849",
+              "stock": 10
+            },
+            {
+              "id": 2036,
+              "nom": "Under Armour chaussures bleu UA GGS CHARGED ROGUE 3",
+              "prix": 610.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/442656/1.jpg?6284",
+              "stock": 10
+            },
+            {
+              "id": 2037,
+              "nom": "chaussure confortable ,nouvelle saison",
+              "prix": 219.0,
+              "description": "N/A",
+              "marque": "N/A",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/101006/1.jpg?4725",
+              "stock": 10
+            },
+            {
+              "id": 2038,
+              "nom": "Asics chaussures BLEU NOOSA FF",
+              "prix": 1320.0,
+              "description": "N/A",
+              "marque": "Asics",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/542656/1.jpg?8422",
+              "stock": 10
+            },
+            {
+              "id": 2039,
+              "nom": "Asics chaussures ROSE AMPLICA GS",
+              "prix": 490.0,
+              "description": "N/A",
+              "marque": "Asics",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/542656/1.jpg?7849",
+              "stock": 10
+            },
+            {
+              "id": 2040,
+              "nom": "Nike chaussures BLEU W MC TRAINER",
+              "prix": 790.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/542656/1.jpg?6290",
+              "stock": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Chaussures Sport",
+      "types": [
+        {
+          "id": 301,
+          "nom": "Chaussures Sport",
+          "produits": [
+            {
+              "id": 3001,
+              "nom": "Adidas Chaussure Cloudfoam Comfy -Bleu",
+              "prix": 299.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/769756/1.jpg?6073",
+              "stock": 10
+            },
+            {
+              "id": 3002,
+              "nom": "Adidas Chaussure Grand Court 2.0 Enfants -Black",
+              "prix": 245.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/621656/1.jpg?0960",
+              "stock": 10
+            },
+            {
+              "id": 3003,
+              "nom": "Nike Downshifter 11 Gs - Noir",
+              "prix": 384.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/693656/1.jpg?6411",
+              "stock": 10
+            },
+            {
+              "id": 3004,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Hommes -Gris",
+              "prix": 450.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/527656/1.jpg?8839",
+              "stock": 10
+            },
+            {
+              "id": 3005,
+              "nom": "Under Armour Chaussures De Course Ua Surge 3 Pour Hommes -Noir",
+              "prix": 450.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/527656/1.jpg?3599",
+              "stock": 10
+            },
+            {
+              "id": 3006,
+              "nom": "Under Armour Chaussures De Course Ua Hovr™ Turbulence 2 -Noir",
+              "prix": 799.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/527656/1.jpg?2778",
+              "stock": 10
+            },
+            {
+              "id": 3007,
+              "nom": "Puma Chaussure Rs-Metric Trail -Multicouleur",
+              "prix": 520.0,
+              "description": "N/A",
+              "marque": "Puma",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/627656/1.jpg?1634",
+              "stock": 10
+            },
+            {
+              "id": 3008,
+              "nom": "Adidas Chaussure à scratch X Speedportal.4 Turf -Noir",
+              "prix": 455.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/079756/1.jpg?5010",
+              "stock": 10
+            },
+            {
+              "id": 3009,
+              "nom": "Nike Nike Downshifter 11 (Gs) - Noir",
+              "prix": 456.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/693656/1.jpg?6599",
+              "stock": 10
+            },
+            {
+              "id": 3010,
+              "nom": "Adidas Chaussure à lacets FortaRun 2.0 Cloudfoam -Noir",
+              "prix": 455.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/969756/1.jpg?9678",
+              "stock": 10
+            },
+            {
+              "id": 3011,
+              "nom": "Nike Nike Revolution 5 Gs - Gris",
+              "prix": 384.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/693656/1.jpg?6249",
+              "stock": 10
+            },
+            {
+              "id": 3012,
+              "nom": "Reebok Baskets Pour Unisex Noir Reebok Court Advance - Noir",
+              "prix": 612.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/41/050756/1.jpg?8826",
+              "stock": 10
+            },
+            {
+              "id": 3013,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Filles Du Primaire -Noir",
+              "prix": 430.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/627656/1.jpg?5145",
+              "stock": 10
+            },
+            {
+              "id": 3014,
+              "nom": "Reebok Baskets Pour Unisex Bleu Reebok Court Retro - Bleu",
+              "prix": 532.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/82/050756/1.jpg?8825",
+              "stock": 10
+            },
+            {
+              "id": 3015,
+              "nom": "Under Armour Chaussures De Running Ua Surge -Gris",
+              "prix": 430.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/527656/1.jpg?5803",
+              "stock": 10
+            },
+            {
+              "id": 3016,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Hommes -Noir",
+              "prix": 995.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/527656/1.jpg?4763",
+              "stock": 10
+            },
+            {
+              "id": 3017,
+              "nom": "Reebok ENERGYLUX 3 CHAUSSURES HOMMES",
+              "prix": 426.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/444056/1.jpg?0433",
+              "stock": 10
+            },
+            {
+              "id": 3018,
+              "nom": "Under Armour Chaussures De Course Pour Hommes Under Armour Ua Speed ​​Swift -Blanc",
+              "prix": 570.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/527656/1.jpg?3161",
+              "stock": 10
+            },
+            {
+              "id": 3019,
+              "nom": "Under Armour Chaussures De Running Ua Charged Pursuit 3 Tech -Gris",
+              "prix": 450.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/527656/1.jpg?3862",
+              "stock": 10
+            },
+            {
+              "id": 3020,
+              "nom": "Reebok Baskets Gris Pour Homme Reebok Royal Bb4500 Hi2 - Gris",
+              "prix": 615.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/442756/1.jpg?9604",
+              "stock": 10
+            },
+            {
+              "id": 3021,
+              "nom": "Adidas Chaussure Ultraboost 1.0 -Gris",
+              "prix": 1009.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/969756/1.jpg?6311",
+              "stock": 10
+            },
+            {
+              "id": 3022,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 – Pour Femmes Rose",
+              "prix": 430.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/627656/1.jpg?5261",
+              "stock": 10
+            },
+            {
+              "id": 3023,
+              "nom": "Puma JADA JR Black-White-Mauve Pop",
+              "prix": 400.0,
+              "description": "N/A",
+              "marque": "Puma",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/05/587646/1.jpg?4640",
+              "stock": 10
+            },
+            {
+              "id": 3024,
+              "nom": "Reebok ENERGYLUX 3 CHAUSSURES HOMMES",
+              "prix": 426.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/444056/1.jpg?7271",
+              "stock": 10
+            },
+            {
+              "id": 3025,
+              "nom": "Under Armour Chaussures De Course Ua Pursuit 3 Ac Pour Filles -Noir",
+              "prix": 350.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/527656/1.jpg?6544",
+              "stock": 10
+            },
+            {
+              "id": 3026,
+              "nom": "Reebok Baskets Pour Unisex Blanc Reebok Court Retro - Blanc",
+              "prix": 479.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/050756/1.jpg?8825",
+              "stock": 10
+            },
+            {
+              "id": 3027,
+              "nom": "Reebok Baskets Pour Unisex Blanc Reebok Court Advance - Blanc",
+              "prix": 765.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/050756/1.jpg?8825",
+              "stock": 10
+            },
+            {
+              "id": 3028,
+              "nom": "Under Armour Chaussures De Course Ua Pursuit 3 Ac Pour Garçons D'Âge Préscolaire -Noir",
+              "prix": 350.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/527656/1.jpg?6356",
+              "stock": 10
+            },
+            {
+              "id": 3029,
+              "nom": "Reebok WALKAWHILE CHAUSSURES UNISEX",
+              "prix": 390.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/444056/1.jpg?2716",
+              "stock": 10
+            },
+            {
+              "id": 3030,
+              "nom": "Reebok Baskets Pour Unisex Blanc Reebok Court Retro - Blanc",
+              "prix": 665.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/050756/1.jpg?8825",
+              "stock": 10
+            },
+            {
+              "id": 3031,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Garçons Du Primaire -Noir.",
+              "prix": 430.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/527656/1.jpg?0494",
+              "stock": 10
+            },
+            {
+              "id": 3032,
+              "nom": "Reebok REAGO ESSENTIAL 2.0 CHAUSSURES HOMMES",
+              "prix": 440.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/344056/1.jpg?6225",
+              "stock": 10
+            },
+            {
+              "id": 3033,
+              "nom": "Under Armour Chaussures De Running Ua Surge 3 -Gris",
+              "prix": 430.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/527656/1.jpg?5602",
+              "stock": 10
+            },
+            {
+              "id": 3034,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Femmes -Gris",
+              "prix": 599.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/627656/5.jpg?7238",
+              "stock": 10
+            },
+            {
+              "id": 3035,
+              "nom": "Under Armour Chaussures De Course Ua Charged Pursuit 3 Pour Garçons Du Primaire -Noir",
+              "prix": 430.0,
+              "description": "N/A",
+              "marque": "Under Armour",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/527656/1.jpg?4882",
+              "stock": 10
+            },
+            {
+              "id": 3036,
+              "nom": "Reebok Baskets Pour Homme Energen Lite Full Black  - Noir",
+              "prix": 665.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/940756/1.jpg?8832",
+              "stock": 10
+            },
+            {
+              "id": 3037,
+              "nom": "Reebok Baskets Noir Pour Homme Baskets Noir Pour Homme Baskets Noir Pour Homme Flexagon Energy Tr 4 - Noir",
+              "prix": 719.0,
+              "description": "N/A",
+              "marque": "Reebok",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/050756/1.jpg?8830",
+              "stock": 10
+            },
+            {
+              "id": 3038,
+              "nom": "Nike chaussures GRIS COURT BOROUGH LOW RECRAFT (GS)",
+              "prix": 690.0,
+              "description": "N/A",
+              "marque": "Nike",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/542656/1.jpg?5626",
+              "stock": 10
+            },
+            {
+              "id": 3039,
+              "nom": "chaussure de sport confortable unisexe",
+              "prix": 225.0,
+              "description": "N/A",
+              "marque": "N/A",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/949025/1.jpg?7232",
+              "stock": 10
+            },
+            {
+              "id": 3040,
+              "nom": "Adidas Chaussure Copa Pure II League Terrain souple -Bordeaux",
+              "prix": 455.0,
+              "description": "N/A",
+              "marque": "Adidas",
+              "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/079756/1.jpg?5010",
+              "stock": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+
+
+
+
+//   Explication :
+// Catégories :
+
+// Chaussures Hommes (id: 1)
+
+// Chaussures Femmes (id: 2)
+
+// Chaussures Sport (id: 3)
+
+// Types :
+
+// Chaque catégorie a un seul type (par exemple, "Chaussures Hommes" pour la catégorie "Chaussures Hommes").
+
+// Produits :
+
+// Tous les produits sont inclus avec leurs détails complets.
+
+// Champs :
+
+// id, nom, prix, description, marque, image, et stock sont inclus pour chaque produit
